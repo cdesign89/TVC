@@ -883,5 +883,5 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 
 更新时间,#genre#
 2024-04-06,https://tv.cdesign.io/blank.mp4
-09:17:02,https://tv.cdesign.io/blank.mp4
+12:31:26,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
