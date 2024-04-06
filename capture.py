@@ -3,7 +3,7 @@ import requests
 import os
 import re
 import opencc
-from datetime import datetime
+import datetime
 
 # 获取远程直播源文件
 url = "https://raw.githubusercontent.com/Fairy8o/IPTV/main/DIYP-v4.txt"
@@ -38,10 +38,10 @@ def subtract_add(arr): # 数组内容加1，得到频道组第一个频道位置
     return [x + 1 for x in arr]
 
 def find_genre(arr,kw_gen): # 查找频道组索引位置
+    pattern_gen = '|'.join(kw_gen)
     for idx, content in enumerate(arr):
-        if kw_gen in content:
+        if re.search(pattern_gen,content):
             return idx
-
 
 file_T = 'DIYP-v4.txt'
 file_S = 'TV.txt'
@@ -59,22 +59,8 @@ for line_num,line_content in ogenre:
 
 ogenre_end_line = shift_array(ogenre_start_line)
 ogenre_start_line = subtract_add(ogenre_start_line)
-        
-# gi = find_genre(ogenre_content,'频道组关键词')
-# keywords = ['关键词']
-# dekeywords = ['de关键词']
-# pattern = '|'.join(keywords)
-# depattern = '|'.join(dekeywords)
-# with open(input_file,'r',encoding='utf-8') as file, open('XX.txt','w',encoding='utf=8') as XX:
-#     XX.write('\n频道分组,#genre#\n')
-#     search_line = 0
-#     for line in file:
-#         search_line += 1
-#         if ogenre_start_line[gi] <= search_line <= ogenre_end_line[gi]:
-#             if re.search(pattern, line) and not re.search(depattern,line):
-#                 XX.write(line)
 
-gi = find_genre(ogenre_content,'高码')
+gi = find_genre(ogenre_content,['高码'])
 keywords = ['']
 dekeywords = ['👉','卡顿','选择','IPV6','ip-v6']
 pattern = '|'.join(keywords)
@@ -88,7 +74,7 @@ with open(input_file,'r',encoding='utf-8') as file, open('HD.txt','w',encoding='
             if re.search(pattern, line) and not re.search(depattern,line):
                 HD.write(line)
 
-gi = find_genre(ogenre_content,'央视')
+gi = find_genre(ogenre_content,['央视'])
 keywords = ['CCTV']
 dekeywords = ['IPV6','ip-v6']
 pattern = '|'.join(keywords)
@@ -102,7 +88,7 @@ with open(input_file,'r',encoding='utf-8') as file, open('YS.txt','w',encoding='
             if re.search(pattern, line, re.IGNORECASE) and not re.search(depattern,line, re.IGNORECASE):
                 YS.write(line)
 
-gi = find_genre(ogenre_content,'卫视')
+gi = find_genre(ogenre_content,['卫视'])
 keywords = ['卫视']
 dekeywords = ['广东','大湾区']
 pattern = '|'.join(keywords)
@@ -116,7 +102,9 @@ with open(input_file,'r',encoding='utf-8') as file, open('WS.txt','w',encoding='
             if re.search(pattern, line) and not re.search(depattern,line):
                 WS.write(line)
 
-gi = find_genre(ogenre_content,'卫视')
+# 搜索广东频道
+# 从卫视频道组筛选广东相关频道
+gi = find_genre(ogenre_content,['卫视'])
 keywords = ['广东','大湾区']
 dekeywords = ['IPV6','ip-v6']
 pattern = '|'.join(keywords)
@@ -129,7 +117,8 @@ with open(input_file,'r',encoding='utf-8') as file, open('GD.txt','w',encoding='
         if ogenre_start_line[gi] <= search_line <= ogenre_end_line[gi]:
             if re.search(pattern, line) and not re.search(depattern,line, re.IGNORECASE):
                 GD.write(line)
-gi = find_genre(ogenre_content,'广东')
+# 从广东频道组筛选广东相关频道，追加录入
+gi = find_genre(ogenre_content,['广东'])
 keywords = ['广东','佛山']
 dekeywords = ['IPV6','ip-v6']
 pattern = '|'.join(keywords)
@@ -142,21 +131,38 @@ with open(input_file,'r',encoding='utf-8') as file, open('GD.txt','a',encoding='
             if re.search(pattern, line) and not re.search(depattern,line, re.IGNORECASE):
                 GD.write(line)
 
-gi = find_genre(ogenre_content,'香港')
-keywords = ['TVB','RTHK','VIU','HOY','线','香港','凤凰','J2','明珠','港台']
+# 搜索香港、澳门频道组，筛选抓取频道
+# 筛选香港频道
+gi = find_genre(ogenre_content,['香港'])
+keywords = ['TVB','RTHK','VIU','HOY','线','香港','凤凰','J1','J2','明珠','港台']
 dekeywords = ['IPV6','ip-v6','魔法']
 pattern = '|'.join(keywords)
 depattern = '|'.join(dekeywords)
-with open(input_file,'r',encoding='utf-8') as file, open('HK.txt','w',encoding='utf=8') as HK:
-    HK.write('\n ┣  港澳地区,#genre#\n')
+with open(input_file,'r',encoding='utf-8') as file, open('HA.txt','w',encoding='utf=8') as HA:
+    HA.write('\n ┣  港澳地区,#genre#\n')
     search_line = 0
     for line in file:
         search_line += 1
         if ogenre_start_line[gi] <= search_line <= ogenre_end_line[gi]:
             if re.search(pattern, line, re.IGNORECASE) and not re.search(depattern,line, re.IGNORECASE):
-                HK.write(line)
+                HA.write(line)
+# 筛选澳门频道，追加
+gi = find_genre(ogenre_content,['澳门'])
+keywords = ['澳门','澳亚','澳视']
+dekeywords = ['IPV6','ip-v6','魔法']
+pattern = '|'.join(keywords)
+depattern = '|'.join(dekeywords)
+with open(input_file,'r',encoding='utf-8') as file, open('HA.txt','a',encoding='utf=8') as HA:
+    search_line = 0
+    for line in file:
+        search_line += 1
+        if ogenre_start_line[gi] <= search_line <= ogenre_end_line[gi]:
+            if re.search(pattern, line, re.IGNORECASE) and not re.search(depattern,line, re.IGNORECASE):
+                HA.write(line)
 
-gi = find_genre(ogenre_content,'湾')
+# 搜索台湾频道组，筛选抓取频道
+gi = find_genre(ogenre_content,['台湾','湾'])
+# 优先筛选加入
 keywords = ['东森','NATURE','探索']
 dekeywords = ['IPV6','ip-v6','魔法','美洲']
 pattern = '|'.join(keywords)
@@ -169,6 +175,7 @@ with open(input_file,'r',encoding='utf-8') as file, open('TW.txt','w',encoding='
         if ogenre_start_line[gi] <= search_line <= ogenre_end_line[gi]:
             if re.search(pattern, line, re.IGNORECASE) and not re.search(depattern,line, re.IGNORECASE):
                 TW.write(line)
+# 追加筛选加入（排序靠后）
 keywords = ['八大','中视','三立','台视','TVBS','民视']
 dekeywords = ['IPV6','ip-v6','魔法']
 pattern = '|'.join(keywords)
@@ -181,9 +188,70 @@ with open(input_file,'r',encoding='utf-8') as file, open('TW.txt','a',encoding='
             if re.search(pattern, line, re.IGNORECASE) and not re.search(depattern,line, re.IGNORECASE):
                 TW.write(line)
 
+# 搜索日本频道组，筛选抓取频道
+gi = find_genre(ogenre_content,['小日','日本'])
+# 筛选加入
+keywords = ['']
+dekeywords = ['IPV6','ip-v6','魔法','👉','卡顿','选择']
+pattern = '|'.join(keywords)
+depattern = '|'.join(dekeywords)
+with open(input_file,'r',encoding='utf-8') as file, open('JP.txt','w',encoding='utf=8') as JP:
+    JP.write('\n🇯🇵 小日子　,#genre#\n')
+    search_line = 0
+    for line in file:
+        search_line += 1
+        if ogenre_start_line[gi] <= search_line <= ogenre_end_line[gi]:
+            if re.search(pattern, line, re.IGNORECASE) and not re.search(depattern,line, re.IGNORECASE):
+                JP.write(line)
+
+# 搜索韩国频道组，筛选抓取频道
+gi = find_genre(ogenre_content,['韩国','泡菜'])
+# 筛选加入
+keywords = ['']
+dekeywords = ['IPV6','ip-v6','魔法','👉','卡顿','选择']
+pattern = '|'.join(keywords)
+depattern = '|'.join(dekeywords)
+with open(input_file,'r',encoding='utf-8') as file, open('KR.txt','w',encoding='utf=8') as KR:
+    KR.write('\n🇰🇷 大棒子　,#genre#\n')
+    search_line = 0
+    for line in file:
+        search_line += 1
+        if ogenre_start_line[gi] <= search_line <= ogenre_end_line[gi]:
+            if re.search(pattern, line, re.IGNORECASE) and not re.search(depattern,line, re.IGNORECASE):
+                KR.write(line)
+
+# 搜索HBO频道
+# 从国际频道组筛选相关频道
+gi = find_genre(ogenre_content,['国际'])
+keywords = ['HBO']
+dekeywords = ['IPV6','ip-v6','魔法']
+pattern = '|'.join(keywords)
+depattern = '|'.join(dekeywords)
+with open(input_file,'r',encoding='utf-8') as file, open('IN.txt','w',encoding='utf=8') as IN:
+    IN.write('\n🌏 HBO　  ,#genre#\n')
+    search_line = 0
+    for line in file:
+        search_line += 1
+        if ogenre_start_line[gi] <= search_line <= ogenre_end_line[gi]:
+            if re.search(pattern, line) and not re.search(depattern,line, re.IGNORECASE):
+                IN.write(line)
+# 从HBO组筛选相关频道，追加录入
+gi = find_genre(ogenre_content,['HBO'])
+keywords = ['HBO']
+dekeywords = ['IPV6','ip-v6','魔法']
+pattern = '|'.join(keywords)
+depattern = '|'.join(dekeywords)
+with open(input_file,'r',encoding='utf-8') as file, open('IN.txt','a',encoding='utf=8') as IN:
+    search_line = 0
+    for line in file:
+        search_line += 1
+        if ogenre_start_line[gi] <= search_line <= ogenre_end_line[gi]:
+            if re.search(pattern, line) and not re.search(depattern,line, re.IGNORECASE):
+                IN.write(line)
+
 # 读取要合并的文件
 file_contents = []
-file_paths = ['HD.txt','YS.txt','WS.txt','GD.txt','HK.txt','TW.txt']
+file_paths = ['HD.txt','YS.txt','WS.txt','GD.txt','HA.txt','TW.txt','JP.txt','KR.txt','IN.txt']
 for file_path in file_paths:
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
@@ -193,17 +261,21 @@ for file_path in file_paths:
 with open('index.txt', 'w', encoding='utf-8') as output:
     output.write('\n'.join(file_contents))
 # 写入更新日期时间
-    now = datetime.now()
+    now = datetime.datetime.now()\
+        + datetime.timedelta(hours=8) #GMT+8
     output.write(f"\n更新时间,#genre#\n")
     output.write(f"{now.strftime('%Y-%m-%d')},https://tv.cdesign.io/blank.mp4\n")
     output.write(f"{now.strftime('%H:%M:%S')},https://tv.cdesign.io/blank.mp4\n")
     output.write("CDESIGN.io,https://tv.cdesign.io/blank.mp4\n")
 
-os.remove('DIYP-v4.txt')
+os.remove('DIYP-v4.txt') # 删除获取源原文件
+# os.remove(TV.txt) # 删除源T2S文件
 os.remove('HD.txt')
 os.remove('YS.txt')
 os.remove('WS.txt')
 os.remove('GD.txt')
-os.remove('HK.txt')
+os.remove('HA.txt')
 os.remove('TW.txt')
-os.remove('TV.txt')
+os.remove('JP.txt')
+os.remove('KR.txt')
+os.remove('IN.txt')
