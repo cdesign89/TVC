@@ -18,7 +18,7 @@ jobs:
           python-version: 3.x
 
       - name: Install dependencies
-        run: pip install selenium requests futures eventlet
+        run: pip install -r requirements.txt
 
       - name: Install OpenCC
         run: pip install opencc-python-reimplemented
