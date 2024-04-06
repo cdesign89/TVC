@@ -25,10 +25,3 @@ jobs:
                 
       - name: Run Runupdate
         run: python runTVC.py
-
-
-      - name: 提交更改
-        run: |
-          git add .
-          git commit *.txt -m "Add generated file"
-          git push -f
