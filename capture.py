@@ -269,7 +269,7 @@ with open('index.txt', 'w', encoding='utf-8') as output:
     output.write("CDESIGN.io,https://tv.cdesign.io/blank.mp4\n")
 
 os.remove('DIYP-v4.txt') # 删除获取源原文件
-# os.remove(TV.txt) # 删除源T2S文件
+os.remove('TV.txt') # 删除源T2S文件
 os.remove('HD.txt')
 os.remove('YS.txt')
 os.remove('WS.txt')
