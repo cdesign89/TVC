@@ -24,7 +24,7 @@ jobs:
         run: pip install selenium requests futures eventlet
 
       - name: Install OpenCC
-        run: sudo apt-get update && sudo apt-get install -y opencc
+        run: pip install opencc-python-reimplemented
                 
       - name: Run Update
         run: python ${{ github.workspace }}/TVC.py
