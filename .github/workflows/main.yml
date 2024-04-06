@@ -1,6 +1,8 @@
-name: Runupdate
+name: Update
 
 on:
+  schedule:
+    - cron: '0 9,12,15,18,0 * * *'  # 每天的 9、12、15、18、24 点执行
   push:
     branches:
       - main
@@ -23,7 +25,7 @@ jobs:
       - name: Install OpenCC
         run: pip install opencc-python-reimplemented
                 
-      - name: Run Runupdate
+      - name: Run Updating...
         run: python ${{ github.workspace }}/capture.py
 
       - name: 提交更改
