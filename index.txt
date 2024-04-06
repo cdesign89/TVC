@@ -810,6 +810,7 @@ hoy tv,https://epg.pw/stream/6c4c08eb53624afd083983403681668ad240d09e2e3cb3d86a7
 
 
  ┣  台灣省　,#genre#
+东森财经,rtmp://f13h.mine.nu/sat/tv571
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森电影,http://171.108.239.92:8181/tsfile/live/1010_1.m3u8
 东森洋片,http://171.108.239.92:8181/tsfile/live/1016_1.m3u8
@@ -829,6 +830,8 @@ LOVENATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 民视,rtmp://f13h.mine.nu/sat/tv051
 台视,rtmp://f13h.mine.nu/sat/tv071
 中视,rtmp://f13h.mine.nu/sat/tv091
+TVBS欢乐,rtmp://f13h.mine.nu/sat/tv421
+TVBS新闻,rtmp://f13h.mine.nu/sat/tv551
 TVBS NEWS,http://mywlkj.ddns.net:754/tv/tw3.php?id=3
 GTV 八大戏剧HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
 三立戏剧台,http://mywlkj.ddns.net:754/tv/tw3.php?id=6
@@ -1317,6 +1320,6 @@ HBO,http://41.205.93.154/HBO/index.m3u8
 HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 
 更新时间,#genre#
-2024-04-06,https://tv.cdesign.io/blank.mp4
-23:17:18,https://tv.cdesign.io/blank.mp4
+2024-04-07,https://tv.cdesign.io/blank.mp4
+02:21:33,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
