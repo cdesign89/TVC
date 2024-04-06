@@ -228,7 +228,7 @@ dekeywords = ['IPV6','ip-v6','魔法']
 pattern = '|'.join(keywords)
 depattern = '|'.join(dekeywords)
 with open(input_file,'r',encoding='utf-8') as file, open('IN.txt','w',encoding='utf=8') as IN:
-    IN.write('\n🌏 HBO　  ,#genre#\n')
+    IN.write('\n🌏 HBO  　,#genre#\n')
     search_line = 0
     for line in file:
         search_line += 1
