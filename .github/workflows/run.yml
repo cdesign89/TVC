@@ -24,4 +24,4 @@ jobs:
         run: pip install opencc-python-reimplemented
                 
       - name: Run Runupdate
-        run: python ${{ github.workspace }}/TVC.py
+        run: python TVC.py
