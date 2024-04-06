@@ -1,4 +1,3 @@
-
 🚀 高清專區,#genre#
 CCTV1-综合,http://hbyxmlg.picp.io:8088/tsfile/live/0001_1.m3u8
 CCTV2-财经,http://hbyxmlg.picp.io:8088/tsfile/live/0002_1.m3u8
@@ -15,7 +14,6 @@ CCTV12-社会,http://hbyxmlg.picp.io:8088/tsfile/live/0012_1.m3u8
 CCTV13-新闻,http://hbyxmlg.picp.io:8088/tsfile/live/0013_1.m3u8
 CCTV14-少儿,http://hbyxmlg.picp.io:8088/tsfile/live/0014_1.m3u8
 CCTV15-音乐,http://hbyxmlg.picp.io:8088/tsfile/live/0015_1.m3u8
-
 CCTV1-综合,http://101.228.122.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://101.228.122.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺,http://101.228.122.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -31,7 +29,6 @@ CCTV13-新闻,http://101.228.122.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&pla
 CCTV14-少儿,http://101.228.122.236:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15-音乐,http://101.228.122.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17-农业,http://101.228.122.236:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-
 CCTV1-综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
 CCTV2-财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3-综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -50,7 +47,6 @@ CCTV14-少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 CCTV15-音乐,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 CCTV16-奥运,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17-农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-
 浙江卫视,http://hbyxmlg.picp.io:8088/tsfile/live/0124_1.m3u8
 江苏卫视,http://hbyxmlg.picp.io:8088/tsfile/live/0127_1.m3u8
 安徽卫视,http://hbyxmlg.picp.io:8088/tsfile/live/0130_1.m3u8
@@ -84,8 +80,6 @@ CCTV17-农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/inde
 卡酷动画,http://hbyxmlg.picp.io:8088/tsfile/live/1009_1.m3u8
 金鹰卡通,http://hbyxmlg.picp.io:8088/tsfile/live/1010_1.m3u8
 第一剧场,http://hbyxmlg.picp.io:8088/tsfile/live/1011_1.m3u8
-
-
 北京卫视,http://219.147.200.9:18080/newlive/live/hls/26/live.m3u8
 湖南卫视,http://219.147.200.9:18080/newlive/live/hls/30/live.m3u8
 广东卫视,http://219.147.200.9:18080/newlive/live/hls/32/live.m3u8
@@ -110,8 +104,6 @@ CCTV17-农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/inde
 贵州卫视,http://219.147.200.9:18080/newlive/live/hls/49/live.m3u8
 安徽卫视,http://219.147.200.9:18080/newlive/live/hls/43/live.m3u8
 黑龙江台,http://219.147.200.9:18080/newlive/live/hls/19/live.m3u8
-
-
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
@@ -148,8 +140,6 @@ CCTV17-农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/inde
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-
-
 
 🇨🇳 央視爸爸,#genre#
 CCTV1,http://ygbh.cloudns.ch/ysp.php?id=cctv1
@@ -351,7 +341,6 @@ CCTV10,http://171.221.240.108:808/hls/10/index.m3u8
 CCTV11,http://171.221.240.108:808/hls/11/index.m3u8
 CCTV12,http://171.221.240.108:808/hls/12/index.m3u8
 CCTV14,http://1639.hsmedia.top:8080/newlive/live/hls/16/live.m3u8
-
 
  ┣  地方衛視,#genre#
 北京卫视,http://ygbh.cloudns.ch/ysp.php?id=bjws
@@ -672,7 +661,6 @@ CCTV14,http://1639.hsmedia.top:8080/newlive/live/hls/16/live.m3u8
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 
-
  ┣  廣東制霸,#genre#
 广东卫视,http://ygbh.cloudns.ch/ysp.php?id=gdws
 广东卫视,http://171.221.240.108:808/hls/23/index.m3u8
@@ -726,7 +714,6 @@ CCTV14,http://1639.hsmedia.top:8080/newlive/live/hls/16/live.m3u8
 佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
 佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm
 佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
-
 
  ┣  港澳地区,#genre#
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
@@ -807,7 +794,6 @@ hoy tv,https://epg.pw/stream/6c4c08eb53624afd083983403681668ad240d09e2e3cb3d86a7
 澳视体育,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 澳视资讯,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
 澳视综艺,http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
-
 
  ┣  台灣省　,#genre#
 东森财经,rtmp://f13h.mine.nu/sat/tv571
@@ -900,7 +886,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 三立都会,http://50.7.238.114:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
-
 
 🇯🇵 小日子　,#genre#
 NHKBSP-4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
@@ -1035,7 +1020,6 @@ WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?c
 ミュージック?ジャパンTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
 旅チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
 日テレジータス,http://cdns.jp-primehome.com:8000/zho
-
 迪士尼（日本）,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 日本 全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 日本 声优广播,http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
@@ -1049,7 +1033,6 @@ Nippon,https://ntv4.mov3.co/hls/ntv.m3u8
 NHKG,https://nhk4.mov3.co/hls/nhk.m3u8
 NHK Educational TV,http://202.60.106.14:8080/1302/playlist.m3u8
 BSTV,https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w785516268.m3u8
-
 映画,http://142.171.31.242:5002/cs14.m3u8?token=guoziyun&gid=cs14&channel=zhongying
 ホームドラマチャンネル Home Drama Channel,http://103.36.32.14:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
 NHK BS1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
@@ -1132,7 +1115,6 @@ bs19,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 bs20,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 bs21,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 bs22,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-
 bs25,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 bs26,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 bs27,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
@@ -1173,8 +1155,6 @@ gx05,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 gx06,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 gx07,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 
-
-
 🇰🇷 大棒子　,#genre#
 KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 CBJ SBS,http://mywlkj.ddns.net:754/tv/cbjtv.m3u8
@@ -1204,42 +1184,31 @@ iHQ 돈쭐내러 왔습니다,https://ads.its-newid.net/api/manifest.m3u8?tp=sam
 KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-
 「韩国」EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 「韩国」EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 「韩国」EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-
 「韩国」EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 「韩国」EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-
 「韩国」EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 「韩国」EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-
 「韩国」EBS+1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
 「韩国」EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
 「韩国」EBSe,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-
 「韩国」BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-
 「韩国」KBC ,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 「韩国」NBS ,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 「韩国」TJB ,http://1.245.74.5:1935/live/tv/.m3u8
 「韩国」KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u
-
 「韩国」KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 「韩国」KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 「韩国」KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 「韩国」KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-
 「韩国」CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 「韩国」Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 「韩国」Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-
 「韩国」Job plus TV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 「韩国」NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 「韩国」DUBAI ONE,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-
-
 SBS(5G专线),http://1.245.74.5:1935/live/tv/.m3u8
 韩国iMBC(5G专线),https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 声优广播(5G专线),http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
@@ -1305,9 +1274,6 @@ DaNangTV2(5G专线),http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.
 HBTV(5G专线),http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 ANTV(5G专线),http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
-
-
-
 🌏 HBO  　,#genre#
 HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
 HBO Plus,http://170.254.18.106/HBO_PLUS/index.m3u8
@@ -1321,5 +1287,5 @@ HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct
 
 更新时间,#genre#
 2024-04-07,https://tv.cdesign.io/blank.mp4
-02:21:33,https://tv.cdesign.io/blank.mp4
+03:53:16,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
