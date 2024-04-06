@@ -25,3 +25,13 @@ jobs:
                 
       - name: Run Runupdate
         run: python ${{ github.workspace }}/capture.py
+
+      - name: 提交更改
+        run: |
+          git config --local user.email "killua1989@163.com"
+          git config --local user.name "cdesign89"
+          git add .
+          git commit *.txt -m "Add generated file"
+          #git commit *.m3u -m "Add generated file"
+          #git pull --rebase
+          git push -f
