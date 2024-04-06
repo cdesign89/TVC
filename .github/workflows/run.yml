@@ -1,4 +1,4 @@
-name: update
+name: Runupdate
 
 on:
   push:
@@ -23,5 +23,5 @@ jobs:
       - name: Install OpenCC
         run: pip install opencc-python-reimplemented
                 
-      - name: Run Update
+      - name: Run Runupdate
         run: python ${{ github.workspace }}/TVC.py
