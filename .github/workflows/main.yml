@@ -2,7 +2,7 @@ name: Update
 
 on:
   schedule:
-    - cron: '5 4,7,10,12 * * *'  # 每天的 GMT+8 时区的 12、15、18 和 20 点的第5分钟执行
+    - cron: '5 4,10 * * *'  # 每天的 GMT+8 时区的 12、18点的第5分钟执行
   push:
     branches:
       - main
