@@ -1249,6 +1249,6 @@ HBO,http://41.205.93.154/HBO/index.m3u8
 HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 
 更新时间,#genre#
-2024-04-10,https://tv.cdesign.io/blank.mp4
-18:24:23,https://tv.cdesign.io/blank.mp4
+2024-04-11,https://tv.cdesign.io/blank.mp4
+12:22:53,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
