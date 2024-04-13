@@ -700,6 +700,8 @@ CCTV14,http://1639.hsmedia.top:8080/newlive/live/hls/16/live.m3u8
 广东体育,http://113.15.187.233:8181/tsfile/live/1001_1.m3u8
 
  ┣  港澳地区,#genre#
+有卡顿请切换其他线路,https://cloud.lxweb.cn/f/9qgnS1/4.MOV
+选择自己流畅的线路观看,https://cloud.lxweb.cn/f/9qgnS1/4.MOV
 凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
@@ -1229,6 +1231,6 @@ HBO,http://41.205.93.154/HBO/index.m3u8
 HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 
 更新时间,#genre#
-2024-04-12,https://tv.cdesign.io/blank.mp4
-18:23:48,https://tv.cdesign.io/blank.mp4
+2024-04-13,https://tv.cdesign.io/blank.mp4
+12:20:44,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
