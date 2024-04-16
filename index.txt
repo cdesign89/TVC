@@ -1,4 +1,4 @@
-🚀 高清專區,#genre#
+🚀 高清专区,#genre#
 CCTV1-综合,http://hbyxmlg.picp.io:8088/tsfile/live/0001_1.m3u8
 CCTV2-财经,http://hbyxmlg.picp.io:8088/tsfile/live/0002_1.m3u8
 CCTV3-综艺,http://hbyxmlg.picp.io:8088/tsfile/live/0003_1.m3u8
@@ -342,7 +342,7 @@ CCTV11,http://171.221.240.108:808/hls/11/index.m3u8
 CCTV12,http://171.221.240.108:808/hls/12/index.m3u8
 CCTV14,http://1639.hsmedia.top:8080/newlive/live/hls/16/live.m3u8
 
- ┣  地方衛視,#genre#
+ ┣  地方卫视,#genre#
 北京卫视,http://ygbh.cloudns.ch/ysp.php?id=bjws
 东方卫视,http://ygbh.cloudns.ch/ysp.php?id=dfws
 浙江卫视,http://ygbh.cloudns.ch/ysp.php?id=zsws
@@ -661,7 +661,7 @@ CCTV14,http://1639.hsmedia.top:8080/newlive/live/hls/16/live.m3u8
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 
- ┣  廣東制霸,#genre#
+ ┣  广东频道,#genre#
 广东卫视,http://ygbh.cloudns.ch/ysp.php?id=gdws
 广东卫视,http://171.221.240.108:808/hls/23/index.m3u8
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
@@ -797,7 +797,7 @@ TVB J2台,http://1.65.195.85:9981/stream/channelid/2082072924?ticket=4b3174e5f68
 澳视资讯,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
 澳视综艺,http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 
- ┣  台灣省　,#genre#
+ ┣  台湾省　,#genre#
 东森财经,rtmp://f13h.mine.nu/sat/tv571
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
@@ -1241,5 +1241,5 @@ HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct
 
 更新时间,#genre#
 2024-04-16,https://tv.cdesign.io/blank.mp4
-12:23:26,https://tv.cdesign.io/blank.mp4
+14:37:27,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
