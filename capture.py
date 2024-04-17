@@ -81,28 +81,31 @@ ogenre_end_line = shift_array(ogenre_start_line)
 ogenre_start_line = subtract_add(ogenre_start_line)
 
 # 组01：抓取高清组频道
-name_gen = '🚀 高清专区'
-name_ch = 'HD'
-txt_ch = 'HD.txt'
-find_channel('w', ['高码'], [','], ['👉','卡顿','选择','ipv6','ip-v6'])
+# name_gen = '🚀 高清专区'
+# name_ch = 'HD'
+# txt_ch = 'HD.txt'
+# find_channel('w', ['高码'], [','], ['👉','卡顿','选择','ipv6','ip-v6'])
 
 # 组02：抓取央视组频道
 name_gen = '🇨🇳 央視爸爸'
 name_ch = 'CCTV'
 txt_ch = 'CCTV.txt'
-find_channel('w', ['央视'], ['CCTV'], ['ipv6','ip-v6'])
+find_channel('w', ['高码'], ['CCTV'], ['ipv6','ip-v6'])
+find_channel('a', ['独家'], ['CCTV'], ['ipv6','ip-v6'])
 
 # 组03：抓取卫视组频道，并排除广东相关
 name_gen = ' ┣  地方卫视'
 name_ch = 'WS'
 txt_ch = 'WS.txt'
-find_channel('w', ['卫视'], ['卫视'], ['广东','大湾区','ipv6','ip-v6'])
+find_channel('w', ['高码'], ['卫视'], ['广东','大湾区','ipv6','ip-v6'])
+find_channel('a', ['独家'], ['卫视'], ['广东','大湾区','ipv6','ip-v6'])
 
 # 组04：抓取卫视、广东组中广东相关频道
 name_gen = ' ┣  广东频道'
 name_ch = 'GD'
 txt_ch = 'GD.txt'
-find_channel('w', ['卫视'], ['广东','大湾区'], ['ipv6','ip-v6'])
+find_channel('w', ['高码'], ['广东','大湾区'], ['ipv6','ip-v6'])
+find_channel('a', ['独家'], ['广东','大湾区'], ['ipv6','ip-v6'])
 find_channel('a', ['广东'], ['广东','佛山'], ['ipv6','ip-v6'])
 
 # 组05：抓取香港、澳门组频道
