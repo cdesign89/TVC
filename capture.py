@@ -38,22 +38,26 @@ def find_genre(arr,kw_gen): # 查找频道组索引位置
         if re.search(pattern_gen,content):
             return idx
         
-def find_channel(mode_w,kw_gen,kw_ch,dekw_ch): #查找筛选频道,其中mode_w为写入模式设置，w为首写，a为追加
+def find_channel(kw_gen,kw_ch,dekw_ch): #查找筛选频道,其中mode_w为写入模式设置，w为首写，a为追加
     gi = find_genre(ogenre_content,kw_gen)
-    pattern_ch = '|'.join(kw_ch)
-    depattern_ch = '|'.join(dekw_ch)
-    with open(input_file,'r',encoding='utf-8') as file, open(txt_ch,mode_w,encoding='utf-8') as name_ch:
-        if mode_w == 'w':
-            name_ch.write(f'{name_gen},#genre#\n')
-        search_line = 0
-        for line in file:
-            search_line += 1
-            if ogenre_start_line[gi] <= search_line <= ogenre_end_line[gi]:
-                if re.search(pattern_ch, line, re.IGNORECASE) and not re.search(depattern_ch, line, re.IGNORECASE):
-                    name_ch.write(line)
-    if mode_w == 'w':
-        file_paths.append(txt_ch)
-        del_files.append(txt_ch)
+    if gi is None:
+        return
+    else:
+        pattern_ch = '|'.join(kw_ch)
+        depattern_ch = '|'.join(dekw_ch)
+        with open(input_file,'r',encoding='utf-8') as file, open(txt_ch,'a',encoding='utf-8') as name_ch:
+            search_line = 0
+            for line in file:
+                search_line += 1
+                if ogenre_start_line[gi] <= search_line <= ogenre_end_line[gi]:
+                    if re.search(pattern_ch, line, re.IGNORECASE) and not re.search(depattern_ch, line, re.IGNORECASE):
+                        name_ch.write(line)
+
+def cre_genre():
+    with open(txt_ch,'w',encoding='utf-8') as name_ch:
+        name_ch.write(f'{name_gen},#genre#\n')
+    file_paths.append(txt_ch)
+    del_files.append(txt_ch)
 
 # 获取远程直播源文件
 url = "https://raw.githubusercontent.com/Fairy8o/IPTV/main/DIYP-v4.txt"
@@ -84,63 +88,75 @@ ogenre_start_line = subtract_add(ogenre_start_line)
 # name_gen = '🚀 高清专区'
 # name_ch = 'HD'
 # txt_ch = 'HD.txt'
-# find_channel('w', ['高码'], [','], ['👉','卡顿','选择','ipv6','ip-v6'])
+# cre_genre()
+# find_channel(['高码'], [','], ['👉','卡顿','选择','ipv6','ip-v6'])
 
 # 组02：抓取央视组频道
-name_gen = '🇨🇳 央視爸爸'
+name_gen = '🇨🇳 央视爸爸'
 name_ch = 'CCTV'
 txt_ch = 'CCTV.txt'
-find_channel('w', ['高码'], ['CCTV'], ['ipv6','ip-v6'])
-find_channel('a', ['独家'], ['CCTV'], ['ipv6','ip-v6'])
+cre_genre()
+# find_channel(['央视'], ['CCTV'], ['ipv6','ip-v6'])
+find_channel(['独家'], ['CCTV'], ['ipv6','ip-v6'])
+find_channel(['高码'], ['CCTV'], ['ipv6','ip-v6'])
 
 # 组03：抓取卫视组频道，并排除广东相关
 name_gen = ' ┣  地方卫视'
 name_ch = 'WS'
 txt_ch = 'WS.txt'
-find_channel('w', ['高码'], ['卫视'], ['广东','大湾区','ipv6','ip-v6'])
-find_channel('a', ['独家'], ['卫视'], ['广东','大湾区','ipv6','ip-v6'])
+cre_genre()
+find_channel(['卫视'], ['卫视'], ['广东','大湾区','ipv6','ip-v6'])
+find_channel(['独家'], ['卫视'], ['广东','大湾区','ipv6','ip-v6'])
+find_channel(['高码'], ['卫视'], ['广东','大湾区','ipv6','ip-v6'])
 
 # 组04：抓取卫视、广东组中广东相关频道
 name_gen = ' ┣  广东频道'
 name_ch = 'GD'
 txt_ch = 'GD.txt'
-find_channel('w', ['高码'], ['广东','大湾区'], ['ipv6','ip-v6'])
-find_channel('a', ['独家'], ['广东','大湾区'], ['ipv6','ip-v6'])
-find_channel('a', ['广东'], ['广东','佛山'], ['ipv6','ip-v6'])
+cre_genre()
+find_channel(['卫视'], ['广东','大湾区'], ['ipv6','ip-v6'])
+find_channel(['独家'], ['广东','大湾区','佛山'], ['ipv6','ip-v6'])
+find_channel(['广东'], ['广东','大湾区','佛山'], ['ipv6','ip-v6'])
+find_channel(['高码'], ['广东','大湾区','佛山'], ['ipv6','ip-v6'])
 
 # 组05：抓取香港、澳门组频道
 name_gen = ' ┣  港澳地区'
 name_ch = 'GA'
 txt_ch = 'GA.txt'
-find_channel('w', ['香港'], ['TVB','RTHK','VIU','HOY','线','香港','凤凰','J1','J2','明珠','港台'], ['IPV6','ip-v6','魔法'])
-find_channel('a', ['澳门'], ['澳门','澳亚','澳视'], ['IPV6','ip-v6','魔法'])
+cre_genre()
+find_channel(['香港'], ['TVB','RTHK','VIU','HOY','线','香港','凤凰','J1','J2','明珠','港台'], ['IPV6','ip-v6','魔法'])
+find_channel(['澳门'], ['澳门','澳亚','澳视'], ['IPV6','ip-v6','魔法'])
 
 # 组06：抓取台湾组频道，优先个别频道（如东森等）
 name_gen = ' ┣  台湾省　'
 name_ch = 'TW'
 txt_ch = 'TW.txt'
-kw_gen = ['台湾','湾']
-find_channel('w', kw_gen, ['东森','NATURE','探索'], ['IPV6','ip-v6','魔法','美洲'])
-find_channel('a', kw_gen, ['八大','中视','三立','台视','TVBS','民视'], ['IPV6','ip-v6','魔法'])
+cre_genre()
+find_channel(['台湾','湾'], ['东森','lovenature','探索'], ['IPV6','ip-v6','魔法','美洲'])
+find_channel(['台湾','湾'], ['八大','中视','三立','台视','TVBS','民视'], ['IPV6','ip-v6','魔法'])
 
 # 组07：抓取日本组频道
 name_gen = '🇯🇵 小日子　'
 name_ch = 'JP'
 txt_ch = 'JP.txt'
-find_channel('w', ['小日','日本'], [','], ['IPV6','ip-v6','魔法','👉','卡顿','选择'])
+cre_genre()
+find_channel(['小日','日本'], [','], ['IPV6','ip-v6','魔法','👉','卡顿','选择'])
 
 # 组08：抓取韩国组频道
 name_gen = '🇰🇷 大棒子　'
 name_ch = 'KR'
 txt_ch = 'KR.txt'
-find_channel('w', ['韩国','泡菜'], [','], ['IPV6','ip-v6','魔法','👉','卡顿','选择'])
+cre_genre()
+find_channel(['韩国','泡菜'], [','], ['IPV6','ip-v6','魔法','👉','卡顿','选择'])
 
 # 组09：抓取国际、HBO组中HBO频道
 name_gen = '🌏 HBO  　'
 name_ch = 'INT'
 txt_ch = 'INT.txt'
-find_channel('w', ['国际'], ['HBO'], ['IPV6','ip-v6','魔法'])
-find_channel('a', ['HBO'], ['HBO'], ['IPV6','ip-v6','魔法'])
+cre_genre()
+find_channel(['台湾','湾'], ['HBO'], ['IPV6','ip-v6','魔法'])
+find_channel(['国际'], ['HBO'], ['IPV6','ip-v6','魔法'])
+find_channel(['HBO'], ['HBO'], ['IPV6','ip-v6','魔法'])
 
 # 读取要合并的文件
 file_contents = []
@@ -155,7 +171,7 @@ with open('index.txt', 'w', encoding='utf-8') as output:
 # 写入更新日期时间（以频道组形式）
     now = datetime.datetime.now()\
         + datetime.timedelta(hours=8) # GMT+8
-    output.write(f"\n更新时间,#genre#\n")
+    output.write(f"\n🕘 更新时间,#genre#\n")
     output.write(f"{now.strftime('%Y-%m-%d')},https://tv.cdesign.io/blank.mp4\n")
     output.write(f"{now.strftime('%H:%M:%S')},https://tv.cdesign.io/blank.mp4\n")
     output.write("CDESIGN.io,https://tv.cdesign.io/blank.mp4\n")
