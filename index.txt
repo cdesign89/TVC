@@ -1,24 +1,4 @@
-🇨🇳 央視爸爸,#genre#
-CCTV1 16M,http://php.jdshipin.com:8880/bst.php?id=cctv1hd8m/8000000
-CCTV2 16M,http://php.jdshipin.com:8880/bst.php?id=cctv2hd8m/8000000
-CCTV3 16M,http://php.jdshipin.com:8880/bst.php?id=cctv38m/8000000
-CCTV4 16M,http://php.jdshipin.com:8880/bst.php?id=cctv4hd8m/8000000
-CCTV5 16M,http://php.jdshipin.com:8880/bst.php?id=cctv58m/8000000
-CCTV5+ 16M,http://php.jdshipin.com:8880/bst.php?id=cctv5phd8m/8000000
-CCTV6 16M,http://php.jdshipin.com:8880/bst.php?id=cctv6hd8m/8000000
-CCTV7 16M,http://php.jdshipin.com:8880/bst.php?id=cctv7hd8m/8000000
-CCTV8 16M,http://php.jdshipin.com:8880/bst.php?id=cctv8hd8m/8000000
-CCTV9 16M,http://php.jdshipin.com:8880/bst.php?id=cctv9hd8m/8000000
-CCTV10 16M,http://php.jdshipin.com:8880/bst.php?id=cctv10hd8m/8000000
-CCTV11 16M,http://php.jdshipin.com:8880/bst.php?id=cctv11hd8m/8000000
-CCTV12 16M,http://php.jdshipin.com:8880/bst.php?id=cctv12hd8m/8000000
-CCTV13 16M,http://php.jdshipin.com:8880/bst.php?id=cctv13xwhd8m/8000000
-CCTV14 16M,http://php.jdshipin.com:8880/bst.php?id=cctvsehd8m/8000000
-CCTV15 16M,http://php.jdshipin.com:8880/bst.php?id=cctv15hd8m/8000000
-CCTV16 16M,http://php.jdshipin.com:8880/bst.php?id=cctv16hd8m/8000000
-CCTV17 16M,http://php.jdshipin.com:8880/bst.php?id=cctv17hd8m/8000000
-CCTV16-4K,http://lzoq.9l.lv/daili/?id=cctv16hd4k/15000000
-CCTV-4K,http://php.jdshipin.com:8880/bst.php?id=cctv4k/15000000
+🇨🇳 央视爸爸,#genre#
 CCTV1,http://8.134.82.80:32858/ysp04/haiouysp.php?id=1
 CCTV2,http://8.134.82.80:32858/ysp04/haiouysp.php?id=2
 CCTV3,http://8.134.82.80:32858/ysp04/haiouysp.php?id=3
@@ -163,32 +143,28 @@ CCTV12,http://1.195.111.251:11190/tsfile/live/0012_1.m3u8
 CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
 CCTV14,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
 CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
+CCTV1 16M,http://php.jdshipin.com:8880/bst.php?id=cctv1hd8m/8000000
+CCTV2 16M,http://php.jdshipin.com:8880/bst.php?id=cctv2hd8m/8000000
+CCTV3 16M,http://php.jdshipin.com:8880/bst.php?id=cctv38m/8000000
+CCTV4 16M,http://php.jdshipin.com:8880/bst.php?id=cctv4hd8m/8000000
+CCTV5 16M,http://php.jdshipin.com:8880/bst.php?id=cctv58m/8000000
+CCTV5+ 16M,http://php.jdshipin.com:8880/bst.php?id=cctv5phd8m/8000000
+CCTV6 16M,http://php.jdshipin.com:8880/bst.php?id=cctv6hd8m/8000000
+CCTV7 16M,http://php.jdshipin.com:8880/bst.php?id=cctv7hd8m/8000000
+CCTV8 16M,http://php.jdshipin.com:8880/bst.php?id=cctv8hd8m/8000000
+CCTV9 16M,http://php.jdshipin.com:8880/bst.php?id=cctv9hd8m/8000000
+CCTV10 16M,http://php.jdshipin.com:8880/bst.php?id=cctv10hd8m/8000000
+CCTV11 16M,http://php.jdshipin.com:8880/bst.php?id=cctv11hd8m/8000000
+CCTV12 16M,http://php.jdshipin.com:8880/bst.php?id=cctv12hd8m/8000000
+CCTV13 16M,http://php.jdshipin.com:8880/bst.php?id=cctv13xwhd8m/8000000
+CCTV14 16M,http://php.jdshipin.com:8880/bst.php?id=cctvsehd8m/8000000
+CCTV15 16M,http://php.jdshipin.com:8880/bst.php?id=cctv15hd8m/8000000
+CCTV16 16M,http://php.jdshipin.com:8880/bst.php?id=cctv16hd8m/8000000
+CCTV17 16M,http://php.jdshipin.com:8880/bst.php?id=cctv17hd8m/8000000
+CCTV16-4K,http://lzoq.9l.lv/daili/?id=cctv16hd4k/15000000
+CCTV-4K,http://php.jdshipin.com:8880/bst.php?id=cctv4k/15000000
 
  ┣  地方卫视,#genre#
-江苏卫视 16M,http://php.jdshipin.com:8880/bst.php?id=jswshd8m/8000000
-广西卫视 16M,http://php.jdshipin.com:8880/bst.php?id=gxwshd8m/8000000
-四川卫视 16M,http://php.jdshipin.com:8880/bst.php?id=scwshd/8000000
-湖南卫视 16M,http://php.jdshipin.com:8880/bst.php?id=hunanwshd8m/8000000
-浙江卫视 16M,http://php.jdshipin.com:8880/bst.php?id=zjwshd8m/8000000
-东方卫视 16M,http://php.jdshipin.com:8880/bst.php?id=dfwshd8m/8000000
-北京卫视 16M,http://php.jdshipin.com:8880/bst.php?id=bjwshd8m/8000000
-天津卫视 16M,http://php.jdshipin.com:8880/bst.php?id=tjwshd8m/8000000
-辽宁卫视 16M,http://php.jdshipin.com:8880/bst.php?id=lnwshd8m/8000000
-安徽卫视 16M,http://php.jdshipin.com:8880/bst.php?id=ahwshd8m/8000000
-黑龙江卫视 16M,http://php.jdshipin.com:8880/bst.php?id=hljwshd8m/8000000
-深圳卫视 16M,http://php.jdshipin.com:8880/bst.php?id=szwshd8m/8000000
-湖北卫视 16M,http://php.jdshipin.com:8880/bst.php?id=hubeiws8m/8000000
-吉林卫视 16M,http://php.jdshipin.com:8880/bst.php?id=jlwshd8m/8000000
-山东卫视 16M,http://php.jdshipin.com:8880/bst.php?id=sdws8m/8000000
-江西卫视 16M,http://php.jdshipin.com:8880/bst.php?id=jxws8m/8000000
-河南卫视 16M,http://php.jdshipin.com:8880/bst.php?id=hnwshd8m/8000000
-河北卫视 16M,http://php.jdshipin.com:8880/bst.php?id=hbwshd8m/8000000
-甘肃卫视 16M,http://php.jdshipin.com:8880/bst.php?id=gswshd8m/8000000
-重庆卫视 16M,http://php.jdshipin.com:8880/bst.php?id=cqws8m/8000000
-东南卫视 16M,http://php.jdshipin.com:8880/bst.php?id=dnwshd8m/8000000
-云南卫视 16M,http://php.jdshipin.com:8880/bst.php?id=ynwshd8m/8000000
-贵州卫视 16M,http://php.jdshipin.com:8880/bst.php?id=gzwshd8m/8000000
-海南卫视 16M,http://php.jdshipin.com:8880/bst.php?id=hainanwshd8m/8000000
 北京卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=39
 东方卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=40
 湖南卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=41
@@ -408,9 +384,32 @@ CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
 深圳卫视,http://1.195.111.251:11190/tsfile/live/0126_1.m3u8
 江西卫视,http://1.195.111.251:11190/tsfile/live/0138_1.m3u8
 湖北卫视,http://1.195.111.251:11190/tsfile/live/0132_1.m3u8
+江苏卫视 16M,http://php.jdshipin.com:8880/bst.php?id=jswshd8m/8000000
+广西卫视 16M,http://php.jdshipin.com:8880/bst.php?id=gxwshd8m/8000000
+四川卫视 16M,http://php.jdshipin.com:8880/bst.php?id=scwshd/8000000
+湖南卫视 16M,http://php.jdshipin.com:8880/bst.php?id=hunanwshd8m/8000000
+浙江卫视 16M,http://php.jdshipin.com:8880/bst.php?id=zjwshd8m/8000000
+东方卫视 16M,http://php.jdshipin.com:8880/bst.php?id=dfwshd8m/8000000
+北京卫视 16M,http://php.jdshipin.com:8880/bst.php?id=bjwshd8m/8000000
+天津卫视 16M,http://php.jdshipin.com:8880/bst.php?id=tjwshd8m/8000000
+辽宁卫视 16M,http://php.jdshipin.com:8880/bst.php?id=lnwshd8m/8000000
+安徽卫视 16M,http://php.jdshipin.com:8880/bst.php?id=ahwshd8m/8000000
+黑龙江卫视 16M,http://php.jdshipin.com:8880/bst.php?id=hljwshd8m/8000000
+深圳卫视 16M,http://php.jdshipin.com:8880/bst.php?id=szwshd8m/8000000
+湖北卫视 16M,http://php.jdshipin.com:8880/bst.php?id=hubeiws8m/8000000
+吉林卫视 16M,http://php.jdshipin.com:8880/bst.php?id=jlwshd8m/8000000
+山东卫视 16M,http://php.jdshipin.com:8880/bst.php?id=sdws8m/8000000
+江西卫视 16M,http://php.jdshipin.com:8880/bst.php?id=jxws8m/8000000
+河南卫视 16M,http://php.jdshipin.com:8880/bst.php?id=hnwshd8m/8000000
+河北卫视 16M,http://php.jdshipin.com:8880/bst.php?id=hbwshd8m/8000000
+甘肃卫视 16M,http://php.jdshipin.com:8880/bst.php?id=gswshd8m/8000000
+重庆卫视 16M,http://php.jdshipin.com:8880/bst.php?id=cqws8m/8000000
+东南卫视 16M,http://php.jdshipin.com:8880/bst.php?id=dnwshd8m/8000000
+云南卫视 16M,http://php.jdshipin.com:8880/bst.php?id=ynwshd8m/8000000
+贵州卫视 16M,http://php.jdshipin.com:8880/bst.php?id=gzwshd8m/8000000
+海南卫视 16M,http://php.jdshipin.com:8880/bst.php?id=hainanwshd8m/8000000
 
  ┣  广东频道,#genre#
-广东卫视 16M,http://php.jdshipin.com:8880/bst.php?id=gdwshd8m/8000000
 广东卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=46
 广东卫视,http://dp.sxtv.top:88/live/bestv.php?id=gdws
 广东卫视,http://111.230.30.193/php/lyd.php?id=6248
@@ -433,6 +432,7 @@ CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
 广东体育,http://113.15.187.233:8181/tsfile/live/1001_1.m3u8
 广东珠江,http://113.15.187.233:8181/tsfile/live/1000_1.m3u8
 广东科教,http://113.15.187.233:8181/tsfile/live/1003_1.m3u8
+大湾区卫视,http://glive.grtn.cn/live/lizhi.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东体育,http://219.135.208.218:8083/tsfile/live/1000_1.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
@@ -443,6 +443,7 @@ CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
 广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
 广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.168:5146
 广东体育,http://113.15.187.233:8181/tsfile/live/1001_1.m3u8
+广东卫视 16M,http://php.jdshipin.com:8880/bst.php?id=gdwshd8m/8000000
 
  ┣  港澳地区,#genre#
 凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
@@ -575,11 +576,9 @@ TVB J2台,http://1.65.195.85:9981/stream/channelid/2082072924?ticket=4b3174e5f68
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森电影,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=43
 东森洋片,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=44
-HBOSignatureHD,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=55
 东森新闻台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=62
 东森财经,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=66
 东森超视台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=71
-HBOSignatureHD,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=84
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
 东森电影,http://171.108.239.92:8181/tsfile/live/1010_1.m3u8
 东森洋片,http://171.108.239.92:8181/tsfile/live/1016_1.m3u8
@@ -588,7 +587,6 @@ HBOSignatureHD,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=84
 东森洋片,http://171.108.239.92:8181/tsfile/live/1016_1.m3u8
 东森超视,http://171.108.239.92:8181/tsfile/live/1023_1.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-HBO Signature CHINA SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/20
 LOVENATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 探索频道,http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
 探索频道,http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B5177298351772983&ct=19234&tsum=ca4373fe502ea49d281ea1ecdd3531f5
@@ -1026,6 +1024,17 @@ HBTV(5G专线),http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u
 ANTV(5G专线),http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
 🌏 HBO  　,#genre#
+HBO_HD,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=53
+HBO_HITS,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=54
+HBOSignatureHD,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=55
+HBO温馨家庭,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=56
+HBO_HD,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=82
+HBO_HITS,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=83
+HBOSignatureHD,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=84
+HBO温馨家庭,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=85
+HBO CHINA SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/18
+HBO Signature CHINA SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/20
+HBO Family CHINA SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/21
 HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
 HBO Plus,http://170.254.18.106/HBO_PLUS/index.m3u8
 HBO West,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
@@ -1036,7 +1045,7 @@ HBO Xtreme,http://170.254.18.106/HBO_XTREME/index.m3u8
 HBO,http://41.205.93.154/HBO/index.m3u8
 HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 
-更新时间,#genre#
+🕘 更新时间,#genre#
 2024-04-17,https://tv.cdesign.io/blank.mp4
-18:37:26,https://tv.cdesign.io/blank.mp4
+20:49:33,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
