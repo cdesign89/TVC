@@ -28,7 +28,7 @@ jobs:
       - name: Run Updating...
         run: python ${{ github.workspace }}/capture.py
 
-      - name: 提交更改
+      - name: Submit Changed...
         run: |
           git config --local user.email "killua1989@163.com"
           git config --local user.name "cdesign89"
