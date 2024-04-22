@@ -1,24 +1,4 @@
 🇨🇳 央视爸爸,#genre#
-CCTV1,http://8.134.82.80:32858/ysp04/haiouysp.php?id=1
-CCTV2,http://8.134.82.80:32858/ysp04/haiouysp.php?id=2
-CCTV3,http://8.134.82.80:32858/ysp04/haiouysp.php?id=3
-CCTV4,http://8.134.82.80:32858/ysp04/haiouysp.php?id=4
-CCTV5,http://8.134.82.80:32858/ysp04/haiouysp.php?id=5
-CCTV5+,http://8.134.82.80:32858/ysp04/haiouysp.php?id=6
-CCTV6,http://8.134.82.80:32858/ysp04/haiouysp.php?id=7
-CCTV7,http://8.134.82.80:32858/ysp04/haiouysp.php?id=8
-CCTV8,http://8.134.82.80:32858/ysp04/haiouysp.php?id=9
-CCTV9,http://8.134.82.80:32858/ysp04/haiouysp.php?id=10
-CCTV10,http://8.134.82.80:32858/ysp04/haiouysp.php?id=11
-CCTV11,http://8.134.82.80:32858/ysp04/haiouysp.php?id=12
-CCTV12,http://8.134.82.80:32858/ysp04/haiouysp.php?id=13
-CCTV13,http://8.134.82.80:32858/ysp04/haiouysp.php?id=14
-CCTV14,http://8.134.82.80:32858/ysp04/haiouysp.php?id=15
-CCTV15,http://8.134.82.80:32858/ysp04/haiouysp.php?id=16
-CCTV16,http://8.134.82.80:32858/ysp04/haiouysp.php?id=17
-CCTV17,http://8.134.82.80:32858/ysp04/haiouysp.php?id=18
-CCTV4k,http://8.134.82.80:32858/ysp04/haiouysp.php?id=19
-CCTV8k,http://8.134.82.80:32858/ysp04/haiouysp.php?id=20
 CCTV1,http://dp.sxtv.top:88/live/bestv.php?id=cctv1
 CCTV2,http://dp.sxtv.top:88/live/bestv.php?id=cctv2
 CCTV3,http://dp.sxtv.top:88/live/bestv.php?id=cctv3
@@ -165,28 +145,6 @@ CCTV16-4K,http://lzoq.9l.lv/daili/?id=cctv16hd4k/15000000
 CCTV-4K,http://php.jdshipin.com:8880/bst.php?id=cctv4k/15000000
 
  ┣  地方卫视,#genre#
-北京卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=39
-东方卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=40
-湖南卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=41
-浙江卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=42
-江苏卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=43
-山东卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=44
-安徽卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=45
-广西卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=58
-天津卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=47
-东南卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=48
-河北卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=49
-河南卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=50
-辽宁卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=51
-黑龙江卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=52
-深圳卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=53
-湖北卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=54
-江西卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=55
-重庆卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=56
-四川卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=57
-贵州卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=59
-海南卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=60
-新疆卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=61
 广西卫视,http://dp.sxtv.top:88/live/bestv.php?id=gxws
 深圳卫视,http://dp.sxtv.top:88/live/bestv.php?id=szws
 海南卫视,http://dp.sxtv.top:88/live/bestv.php?id=hainan
@@ -410,7 +368,6 @@ CCTV-4K,http://php.jdshipin.com:8880/bst.php?id=cctv4k/15000000
 海南卫视 16M,http://php.jdshipin.com:8880/bst.php?id=hainanwshd8m/8000000
 
  ┣  广东频道,#genre#
-广东卫视,http://8.134.82.80:32858/ysp04/haiouysp.php?id=46
 广东卫视,http://dp.sxtv.top:88/live/bestv.php?id=gdws
 广东卫视,http://111.230.30.193/php/lyd.php?id=6248
 大湾区卫视,http://111.230.30.193/php/lyd.php?id=6442
@@ -454,81 +411,34 @@ CCTV-4K,http://php.jdshipin.com:8880/bst.php?id=cctv4k/15000000
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
 凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
-凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 无线财经体育资讯台,mitv://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c
 无线财经体育资讯台,rtmp//f13h.mine.nu/sat/hk031
-香港有线18台,rtmp://f13h.mine.nu/sat/hk021
-TVB翡翠台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=4
-TVB无线财经体育,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=6
-TVB华丽翡翠台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=7
-TVB_J2台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=8
-TVB18台,http://8.137.59.151:99/haioutz/haiousmttz.php?id=21
-TVB亚洲武侠,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=9
-TVB千禧经典,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=11
-TVB明珠台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=12
-TVB_星河台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=13
-凤凰卫视中文台,http://proxy.dfkj.live/alitv.php?u=min&id=1
-凤凰卫视资讯台,http://proxy.dfkj.live/alitv.php?u=min&id=2
-香港有线新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=3
-香港有线18台,http://proxy.dfkj.live/alitv.php?u=min&id=4
-香港有线高清603台,http://proxy.dfkj.live/alitv.php?u=min&id=5
-TVB无线新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=6
-TVB财经体育资讯台,http://proxy.dfkj.live/alitv.php?u=min&id=7
-TVB翡翠台,http://proxy.dfkj.live/alitv.php?u=min&id=8
-TVB华丽翡翠台,http://proxy.dfkj.live/alitv.php?u=min&id=9
-TVB明珠台,http://proxy.dfkj.live/alitv.php?u=min&id=10
-TVB J2,http://proxy.dfkj.live/alitv.php?u=min&id=11
-TVB星河,http://proxy.dfkj.live/alitv.php?u=min&id=12
-ViuTV,http://proxy.dfkj.live/alitv.php?u=min&id=13
-ViuTV6,http://proxy.dfkj.live/alitv.php?u=min&id=14
-香港国际财经台,http://proxy.dfkj.live/alitv.php?u=min&id=16
-HOY TV,http://proxy.dfkj.live/alitv.php?u=min&id=17
-HOY资讯台,http://proxy.dfkj.live/alitv.php?u=min&id=18
-港台电视31,http://proxy.dfkj.live/alitv.php?u=min&id=19
-港台电视32,http://proxy.dfkj.live/alitv.php?u=min&id=20
-TVB无线新闻台,http://8.137.59.151:99/haioutz/haiousmttz.php?id=5
-TVB无线财经体育,http://8.137.59.151:99/haioutz/haiousmttz.php?id=6
-TVB亚洲武侠,http://8.137.59.151:99/haioutz/haiousmttz.php?id=9
-TVB18台,http://8.137.59.151:99/haioutz/haiousmttz.php?id=21
-HOY 76台,http://proxy.dfkj.live/alitv.php?u=min&id=16
-HOY 77台,http://proxy.dfkj.live/alitv.php?u=min&id=17
-HOY 78台,http://proxy.dfkj.live/alitv.php?u=min&id=18
-HOY 78台,http://proxy.dfkj.live/alitv.php?u=min&id=3
-TVB财经体育资讯台,http://proxy.dfkj.live/alitv.php?u=min&id=7
-港台电视31,http://proxy.dfkj.live/alitv.php?u=min&id=19
+TVB体育资讯台,http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
+TVB无线新闻台,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
+TVB本港台,http://113.64.145.195:8081/hls/135/index.m3u8
+TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
+TVB J2台,http://nz189l149.bb27109.ctm.net:8892/bysid/82
+TVB无线新闻,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
+TVB无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB翡翠台,http://58.87.99.251:8090/GN/gdfc2/hls.m3u8
 TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
-香港有线18台,http://proxy.dfkj.live/alitv.php?u=min&id=4
-香港有线高清603台,http://proxy.dfkj.live/alitv.php?u=min&id=5
-TVB无线新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=6
-TVB翡翠台,http://proxy.dfkj.live/alitv.php?u=min&id=8
-TVB明珠台,http://proxy.dfkj.live/alitv.php?u=min&id=10
-TVB J2,http://proxy.dfkj.live/alitv.php?u=min&id=11
-TVB星河,http://proxy.dfkj.live/alitv.php?u=min&id=12
-ViuTV,http://proxy.dfkj.live/alitv.php?u=min&id=13
-TVB翡翠台,http://mywlkj.ddns.net:754/tv/hk.php?id=9
-TVB翡翠台,http://mywlkj.ddns.net:754/tv/fct.m3u8
 TVB翡翠台,http://158.180.67.130/live/hls/J/j.m3u8
 TVB翡翠台 4K,http://158.180.67.130/live/hls/JUHD/juhd.m3u8
 TVB翡翠台 4K,http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
 TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-TVB翡翠台,http://ali.hlspull.yximgs.com/live/awei_jade.flv
 TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
-TVB星河台,http://mywlkj.ddns.net:754/tv/xinghe.m3u8
 TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
-TVB功夫台,http://mywlkj.ddns.net:754/tv/action.m3u8
 TVB功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
-TVB娱乐新闻台,http://mywlkj.ddns.net:754/tv/enews.m3u8
 TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 TVB J1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-TVB J2,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
-TVB J2,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-TVBS欢乐台,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
+HOY 76台,http://mtw.so/5GtHyt
+HOY 77台,http://mtw.so/5NZS1S
+HOY 78台,http://mtw.so/5UQ7Ef
 TVB翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
 TVB明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
 TVB翡翠台,http://129.226.149.79:4785/html/V4.php?access_token=DY20240301_31_M97gdfG&id=hktvbfct
@@ -538,7 +448,6 @@ TVB翡翠台,http://129.226.149.79:4785/html/V4.php?access_token=DY20240301_31_M
 无线财经体育资讯台,https://tvb.livednow.com/A
 无线财经体育资讯台,https://tvb.livednow.com/I-FINA
 有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻,https://tv.iill.top/tvb/2
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
@@ -550,10 +459,8 @@ TVB J2台,http://1.65.195.85:9981/stream/channelid/2082072924?ticket=4b3174e5f68
 明珠台,http://1.65.195.85:9981/stream/channelid/1803382046?ticket=81e3b97df2839ef49852fe90ddedf3533469924d&profile=pass
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港34台全网,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-港台RTHK32HD,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 港台RTHK33HD,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 港台RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-港台RTHK35HD,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/live.m3u8
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/a/live.m3u8
@@ -575,56 +482,43 @@ TVB J2台,http://1.65.195.85:9981/stream/channelid/2082072924?ticket=4b3174e5f68
  ┣  台湾省　,#genre#
 东森财经,rtmp://f13h.mine.nu/sat/tv571
 东森超视,rtmp://f13h.mine.nu/sat/tv331
-东森电影,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=43
-东森洋片,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=44
-东森新闻台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=62
-东森财经,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=66
-东森超视台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=71
+东森新闻美国,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森新闻,http://mtw.so/6hiNYe
+东森新闻,http://mtw.so/6oP11j
+东森新闻,http://mtw.so/6hiNWM
+东森财经2,http://66.165.240.154:8080/live/gatdscj02/hls.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-东森电影,http://171.108.239.92:8181/tsfile/live/1010_1.m3u8
-东森洋片,http://171.108.239.92:8181/tsfile/live/1016_1.m3u8
-东森超视,http://171.108.239.92:8181/tsfile/live/1023_1.m3u8
-东森电影,http://171.108.239.92:8181/tsfile/live/1010_1.m3u8
-东森洋片,http://171.108.239.92:8181/tsfile/live/1016_1.m3u8
-东森超视,http://171.108.239.92:8181/tsfile/live/1023_1.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
 LOVENATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-探索频道,http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
-探索频道,http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B5177298351772983&ct=19234&tsum=ca4373fe502ea49d281ea1ecdd3531f5
-东森新闻,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-东森财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 东森新闻,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 民视,rtmp://f13h.mine.nu/sat/tv051
 台视,rtmp://f13h.mine.nu/sat/tv071
 中视,rtmp://f13h.mine.nu/sat/tv091
-中视新闻,http://startv365.com:80/live/9794783213/6955630461/5484.m3u8
-台视新闻,http://startv365.com:80/live/9794783213/6955630461/5501.m3u8
-民视新闻,http://startv365.com:80/live/9794783213/6955630461/5529.m3u8
-民视,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=26
-台视,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=27
-中视,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=28
-TVBSHD,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=30
-TVBS欢乐台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=32
-民视台湾,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=33
-三立综合台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=34
-三立台湾台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=35
-三立都会台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=36
-八大综合台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=37
-TVBS新闻台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=57
-台视新闻台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=59
-中视新闻台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=60
-民视新闻台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=61
-TVBS新闻,rtmp://twcdn.top/sat/tv551
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台湾民视,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+台湾TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+中视新闻,http://mtw.so/5yb7tx
+台视新闻,http://mtw.so/5GrUch
+TVBS新闻,http://mtw.so/5Vq8cD
+三立新闻,http://mtw.so/62gnP0
+三立新闻,http://mtw.so/69MATH
+TVBS新闻,http://mtw.so/6oP11t
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+台湾TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+三立新闻1HD,http://66.165.240.154:8080/live/slxw01/hls.m3u8
+三立新闻2,http://66.165.240.154:8080/live/slxw02/hls.m3u8
+民视新闻HD,http://66.165.240.154:8080/live/tymsxw1/hls.m3u8
+TVBS亚洲,http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
+华语电视1,http://66.165.240.154:8080/live/tytvbs10/hls.m3u8
+华语电视2,http://66.165.240.154:8080/live/tytvbs11/hls.m3u8
+台视新闻HD,http://66.165.240.154:8080/live/tyxltsxw3/hls.m3u8
 八大戏剧台HD,http://61.221.215.25:8800/hls/39/index.m3u8
 八大综合台HD,http://61.221.215.25:8800/hls/56/index.m3u8
 八大第1台HD,http://61.221.215.25:8800/hls/55/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
-TVBS NEWS,http://mywlkj.ddns.net:754/tv/tw3.php?id=3
-GTV 八大戏剧HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
-三立戏剧台,http://mywlkj.ddns.net:754/tv/tw3.php?id=6
-GTV八大第1台HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=13
-GTV八大综合台HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=14
 台视新闻台,https://live.wcetv.com/hls/master-ttvnews.m3u8
 台视新闻台,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -644,19 +538,7 @@ TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-中视 HD,http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
-中视 HD,http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
-台视,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MEDE4406594744065947&ct=19193&tsum=079f13bae33c63d33bb128fd265e8466
-民视新闻,http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=MF1F9892989898929898&ct=19234&tsum=454a768519608690638d11c0258cdcbe
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-台视CTS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -671,7 +553,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-民视台湾,http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
@@ -679,7 +560,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-三立都会,http://50.7.238.114:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
 
 🇯🇵 小日子　,#genre#
 ABCテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
@@ -1025,17 +905,9 @@ HBTV(5G专线),http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u
 ANTV(5G专线),http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
 🌏 HBO  　,#genre#
-HBO_HD,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=53
-HBO_HITS,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=54
-HBOSignatureHD,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=55
-HBO温馨家庭,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=56
-HBO_HD,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=82
-HBO_HITS,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=83
-HBOSignatureHD,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=84
-HBO温馨家庭,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=85
-HBO CHINA SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/18
-HBO Signature CHINA SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/20
-HBO Family CHINA SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/21
+HBO,http://41.205.93.154/HBO/index.m3u8
+HBO+,http://170.254.18.106/HBO_PLUS/index.m3u8
+HBO-2,http://66.165.240.154:8080/live/2mghbo02/hls.m3u8
 HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
 HBO Plus,http://170.254.18.106/HBO_PLUS/index.m3u8
 HBO West,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
@@ -1047,6 +919,6 @@ HBO,http://41.205.93.154/HBO/index.m3u8
 HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 
 🕘 更新时间,#genre#
-2024-04-21,https://tv.cdesign.io/blank.mp4
-18:10:50,https://tv.cdesign.io/blank.mp4
+2024-04-22,https://tv.cdesign.io/blank.mp4
+12:13:58,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
