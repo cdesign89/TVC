@@ -96,28 +96,37 @@ name_gen = '🇨🇳 央视爸爸'
 name_ch = 'CCTV'
 txt_ch = 'CCTV.txt'
 cre_genre()
-# find_channel(['央视'], ['CCTV'], ['ipv6','ip-v6'])
-find_channel(['独家'], ['CCTV'], ['ipv6','ip-v6'])
-find_channel(['高码'], ['CCTV'], ['ipv6','ip-v6'])
+kw_ch = ['CCTV']
+dekw_ch = ['ipv6','ip-v6']
+find_channel(['独家'], kw_ch, dekw_ch)
+find_channel(['电信'], kw_ch, dekw_ch)
+# find_channel(['高码'], kw_ch, dekw_ch)
+# find_channel(['央视'], kw_ch, dekw_ch)
 
 # 组03：抓取卫视组频道，并排除广东相关
 name_gen = ' ┣  地方卫视'
 name_ch = 'WS'
 txt_ch = 'WS.txt'
 cre_genre()
-find_channel(['卫视'], ['卫视'], ['广东','大湾区','ipv6','ip-v6'])
-find_channel(['独家'], ['卫视'], ['广东','大湾区','ipv6','ip-v6'])
-find_channel(['高码'], ['卫视'], ['广东','大湾区','ipv6','ip-v6'])
+kw_ch = ['卫视']
+dekw_ch = ['广东','大湾区','ipv6','ip-v6']
+find_channel(['卫视'], kw_ch, dekw_ch)
+find_channel(['独家'], kw_ch, dekw_ch)
+find_channel(['电信'], kw_ch, dekw_ch)
+# find_channel(['高码'], kw_ch, dekw_ch)
 
 # 组04：抓取卫视、广东组中广东相关频道
 name_gen = ' ┣  广东频道'
 name_ch = 'GD'
 txt_ch = 'GD.txt'
 cre_genre()
-find_channel(['卫视'], ['广东','大湾区'], ['ipv6','ip-v6'])
-find_channel(['独家'], ['广东','大湾区','佛山'], ['ipv6','ip-v6'])
-find_channel(['广东'], ['广东','大湾区','佛山'], ['ipv6','ip-v6'])
-find_channel(['高码'], ['广东','大湾区','佛山'], ['ipv6','ip-v6'])
+kw_ch = ['广东','大湾区','佛山']
+dekw_ch = ['ipv6','ip-v6']
+find_channel(['卫视'], kw_ch, dekw_ch)
+find_channel(['独家'], kw_ch, dekw_ch)
+find_channel(['电信'], kw_ch, dekw_ch)
+find_channel(['广东'], kw_ch, dekw_ch)
+# find_channel(['高码'], kw_ch, dekw_ch)
 
 # 组05：抓取香港、澳门组频道
 name_gen = ' ┣  港澳地区'
