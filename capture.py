@@ -120,12 +120,13 @@ name_gen = ' ┣  广东频道'
 name_ch = 'GD'
 txt_ch = 'GD.txt'
 cre_genre()
-kw_ch = ['广东','大湾区','佛山']
+kw_ch = ['广东','大湾区','佛山','广州','深圳']
 dekw_ch = ['ipv6','ip-v6']
 find_channel(['卫视'], kw_ch, dekw_ch)
 find_channel(['独家'], kw_ch, dekw_ch)
 find_channel(['电信'], kw_ch, dekw_ch)
 find_channel(['广东'], kw_ch, dekw_ch)
+find_channel(['地方'], kw_ch, dekw_ch)
 # find_channel(['高码'], kw_ch, dekw_ch)
 
 # 组05：抓取香港、澳门组频道
