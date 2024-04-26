@@ -562,10 +562,8 @@ CCTV15,http://61.141.202.118:9901/tsfile/live/0015_1.m3u8
 深圳卫视,http://124.230.57.5:55555/udp/239.76.246.188:1234
 广东卫视,http://58.220.219.14:9901/tsfile/live/0125_1.m3u8
 深圳卫视,http://58.220.219.14:9901/tsfile/live/0126_1.m3u8
-广东体育,http://219.128.40.237:8888/udp/239.77.0.112:5146
-广东体育,http://219.128.40.237:8888/udp/239.77.0.168:5146
-广东体育,http://222.218.158.127:8181/tsfile/live/1001_1.m3u8
-广东体育,http://183.54.210.224:9999/udp/239.77.0.112:5146
+广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
+广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.168:5146
 广东体育,http://223.109.210.41/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东卫视超清,http://219.128.40.237:8888/udp/239.77.0.166:5146
@@ -1162,5 +1160,5 @@ HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct
 
 🕘 更新时间,#genre#
 2024-04-26,https://tv.cdesign.io/blank.mp4
-12:13:35,https://tv.cdesign.io/blank.mp4
+18:12:59,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
