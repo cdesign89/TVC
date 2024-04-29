@@ -1,26 +1,4 @@
 🇨🇳 央视爸爸,#genre#
-CCTV1,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=1
-CCTV2,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=2
-CCTV3,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=3
-CCTV4,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=4
-CCTV5,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=5
-CCTV5+,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=6
-CCTV6,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=7
-CCTV6,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=8
-CCTV7,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=9
-CCTV8,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=10
-CCTV9,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=11
-CCTV10,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=12
-CCTV11,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=13
-CCTV12,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=14
-CCTV13,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=15
-CCTV14,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=16
-CCTV15,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=17
-CCTV16,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=18
-CCTV16,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=19
-CCTV17,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=20
-CCTV4K,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=21
-CCTV8K,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=22
 CCTV1,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
 CCTV2,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
 CCTV3,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576503.m3u8
@@ -187,23 +165,23 @@ CCTV13,http://125.71.58.134:6066/udp/239.93.0.66:5140
 CCTV14,http://125.71.58.134:6066/udp/239.93.1.29:6000
 CCTV15,http://125.71.58.134:6066/udp/239.93.0.103:5140
 CCTV17,http://125.71.58.134:6066/udp/239.93.0.92:5140
-CCTV1,http://221.237.36.201:8888/udp/239.93.0.184:5140
-CCTV2,http://221.237.36.201:8888/udp/239.93.1.23:6000
-CCTV3,http://221.237.36.201:8888/udp/239.93.1.11:2223
-CCTV4,http://221.237.36.201:8888/udp/239.93.1.105:5140
-CCTV5,http://221.237.36.201:8888/udp/239.93.42.37:5140
-CCTV5＋,http://221.237.36.201:8888/udp/239.93.1.36:8004
-CCTV6,http://221.237.36.201:8888/udp/239.93.1.13:2226
-CCTV7,http://221.237.36.201:8888/udp/239.93.1.67:5140
-CCTV8,http://221.237.36.201:8888/udp/239.93.42.39:5140
-CCTV9,http://221.237.36.201:8888/udp/239.93.1.24:5140
-CCTV10,http://221.237.36.201:8888/udp/239.93.1.28:5140
-CCTV11,http://221.237.36.201:8888/udp/239.93.0.102:5140
-CCTV12,http://221.237.36.201:8888/udp/239.93.1.30:8124
-CCTV13,http://221.237.36.201:8888/udp/239.93.0.66:5140
-CCTV少儿,http://221.237.36.201:8888/udp/239.93.1.29:6000
-CCTV15,http://221.237.36.201:8888/udp/239.93.0.103:5140
-CCTV17,http://221.237.36.201:8888/udp/239.93.0.92:5140
+CCTV1,http://171.221.58.141:4000/udp/239.93.0.184:5140
+CCTV2,http://171.221.58.141:4000/udp/239.93.1.23:6000
+CCTV3,http://171.221.58.141:4000/udp/239.93.1.11:2223
+CCTV4,http://171.221.58.141:4000/udp/239.93.1.105:5140
+CCTV5,http://171.221.58.141:4000/udp/239.93.42.37:5140
+CCTV5+,http://171.221.58.141:4000/udp/239.93.1.36:8004
+CCTV6,http://171.221.58.141:4000/udp/239.93.1.13:2226
+CCTV7,http://171.221.58.141:4000/udp/239.93.1.67:5140
+CCTV8,http://171.221.58.141:4000/udp/239.93.42.39:5140
+CCTV9,http://171.221.58.141:4000/udp/239.93.1.24:5140
+CCTV10,http://171.221.58.141:4000/udp/239.93.1.28:5140
+CCTV11,http://171.221.58.141:4000/udp/239.93.0.102:5140
+CCTV12,http://171.221.58.141:4000/udp/239.93.1.30:8124
+CCTV13,http://171.221.58.141:4000/udp/239.93.0.66:5140
+CCTV14,http://171.221.58.141:4000/udp/239.93.1.29:6000
+CCTV15,http://171.221.58.141:4000/udp/239.93.0.103:5140
+CCTV17,http://171.221.58.141:4000/udp/239.93.0.92:5140
 CCTV1,http://mail.petzhu.top:7000/rtp/239.254.200.45:8008
 CCTV2,http://mail.petzhu.top:7000/rtp/239.254.200.158:6000
 CCTV3,http://mail.petzhu.top:7000/rtp/239.254.200.159:6000
@@ -439,28 +417,30 @@ CCTV15,http://61.141.202.118:9901/tsfile/live/0015_1.m3u8
 河北卫视,http://110.178.52.190:8085/udp/239.1.1.48:8048
 江西卫视,http://110.178.52.190:8085/udp/239.1.1.52:8052
 山西卫视,http://110.178.52.190:8085/udp/239.1.1.1:8001
-湖南卫视,http://125.71.58.134:6066/udp/239.93.0.88:5140
-江苏卫视,http://125.71.58.134:6066/udp/239.93.0.89:5140
-浙江卫视,http://125.71.58.134:6066/udp/239.93.0.124:5140
-东方卫视,http://125.71.58.134:6066/udp/239.93.0.123:5140
-北京卫视,http://125.71.58.134:6066/udp/239.93.0.180:5140
-深圳卫视,http://125.71.58.134:6066/udp/239.93.0.182:5140
-天津卫视,http://125.71.58.134:6066/udp/239.93.0.167:5140
-山东卫视,http://125.71.58.134:6066/udp/239.93.0.168:5140
-江西卫视,http://125.71.58.134:6066/udp/239.93.0.134:5140
-东南卫视,http://125.71.58.134:6066/udp/239.93.0.42:5140
-黑龙江卫视,http://125.71.58.134:6066/udp/239.93.0.183:5140
-重庆卫视,http://125.71.58.134:6066/udp/239.93.1.107:5140
-贵州卫视,http://125.71.58.134:6066/udp/239.93.0.131:5140
-湖北卫视,http://125.71.58.134:6066/udp/239.93.0.250:5140
-安徽卫视,http://125.71.58.134:6066/udp/239.93.1.106:5140
-河北卫视,http://125.71.58.134:6066/udp/239.93.0.132:5140
-辽宁卫视,http://125.71.58.134:6066/udp/239.93.1.108:5140
-云南卫视,http://125.71.58.134:6066/udp/239.93.1.174:5140
-河南卫视,http://125.71.58.134:6066/udp/239.93.42.45:5140
-广西卫视,http://125.71.58.134:6066/udp/239.93.42.46:5140
-吉林卫视,http://125.71.58.134:6066/udp/239.93.0.248:5140
-甘肃卫视,http://125.71.58.134:6066/udp/239.93.0.81:5140
+湖南卫视,http://171.221.58.141:4000/udp/239.93.0.88:5140
+江苏卫视,http://171.221.58.141:4000/udp/239.93.0.89:5140
+浙江卫视,http://171.221.58.141:4000/udp/239.93.0.124:5140
+北京卫视,http://171.221.58.141:4000/udp/239.93.0.180:5140
+深圳卫视,http://171.221.58.141:4000/udp/239.93.0.182:5140
+四川卫视http://171.221.58.141:4000/udp/239.93.0.169:5140
+四川卫视http://171.221.58.141:4000/udp/239.93.1.188:5140
+天津卫视,http://171.221.58.141:4000/udp/239.93.0.167:5140
+山东卫视,http://171.221.58.141:4000/udp/239.93.0.168:5140
+康巴卫视,http://171.221.58.141:4000/udp/239.93.0.41:5140
+江西卫视,http://171.221.58.141:4000/udp/239.93.0.134:5140
+东南卫视,http://171.221.58.141:4000/udp/239.93.0.42:5140
+黑龙江卫视,http://171.221.58.141:4000/udp/239.93.0.183:5140
+重庆卫视,http://171.221.58.141:4000/udp/239.93.1.107:5140
+贵州卫视,http://171.221.58.141:4000/udp/239.93.0.131:5140
+湖北卫视,http://171.221.58.141:4000/udp/239.93.0.250:5140
+安徽卫视,http://171.221.58.141:4000/udp/239.93.1.106:5140
+河北卫视,http://171.221.58.141:4000/udp/239.93.0.132:5140
+辽宁卫视,http://171.221.58.141:4000/udp/239.93.1.108:5140
+云南卫视,http://171.221.58.141:4000/udp/239.93.1.174:5140
+河南卫视,http://171.221.58.141:4000/udp/239.93.42.45:5140
+广西卫视,http://171.221.58.141:4000/udp/239.93.42.46:5140
+吉林卫视,http://171.221.58.141:4000/udp/239.93.0.248:5140
+甘肃卫视,http://171.221.58.141:4000/udp/239.93.0.81:5140
 湖南卫视,http://221.237.36.201:8888/udp/239.93.0.88:5140
 江苏卫视,http://221.237.36.201:8888/udp/239.93.0.89:5140
 浙江卫视,http://221.237.36.201:8888/udp/239.93.0.124:5140
@@ -562,8 +542,8 @@ CCTV15,http://61.141.202.118:9901/tsfile/live/0015_1.m3u8
 深圳卫视,http://110.178.52.190:8085/udp/239.1.1.39:8039
 大湾区卫视,http://110.178.52.190:8085/udp/239.1.1.69:8069
 广东卫视,http://110.178.52.190:8085/udp/239.1.1.49:8049
-深圳卫视,http://125.71.58.134:6066/udp/239.93.0.182:5140
-广东卫视,http://125.71.58.134:6066/udp/239.93.0.181:5140
+深圳卫视,http://171.221.58.141:4000/udp/239.93.0.182:5140
+广东卫视,http://171.221.58.141:4000/udp/239.93.0.181:5140
 深圳卫视,http://221.237.36.201:8888/udp/239.93.0.182:5140
 广东卫视,http://221.237.36.201:8888/udp/239.93.0.181:5140
 深圳卫视,http://mail.petzhu.top:7000/rtp/239.254.200.50:8020
@@ -632,28 +612,6 @@ CCTV15,http://61.141.202.118:9901/tsfile/live/0015_1.m3u8
 凤凰香港,https://epg.pw/stream/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8
 凤凰中文,https://epg.pw/stream/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
 凤凰资讯,https://epg.pw/stream/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
-凤凰资讯,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=1
-凤凰香港,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=2
-TVB翡翠台,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=3
-TVB翡翠台,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=4
-TVB明珠台,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=5
-TVBplus,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=6
-TVB财经新闻,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=7
-VIUTV,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=8
-RTK31,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=10
-RTK32,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=11
-HOY77,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=12
-HOY78,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=13
-HOY76,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=14
-NOW新闻,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=15
-NOW222,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=16
-TVB星河,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=17
-天映频道,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=18
-天映经典,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=19
-美亚电影台,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=20
-天映频道,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=21
-TV星河,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=22
-广东珠江,http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=23
 TVB体育资讯台http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
 TVB无线新闻台,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 TVB J2,http://61.238.219.237:9981/stream/channelid/2027671586?profile=pass
@@ -1167,6 +1125,6 @@ HBO,http://41.205.93.154/HBO/index.m3u8
 HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 
 🕘 更新时间,#genre#
-2024-04-29,https://tv.cdesign.io/blank.mp4
-18:08:22,https://tv.cdesign.io/blank.mp4
+2024-04-30,https://tv.cdesign.io/blank.mp4
+06:07:29,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
