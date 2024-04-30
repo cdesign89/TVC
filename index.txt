@@ -1,4 +1,26 @@
 🇨🇳 央视爸爸,#genre#
+CCTV1,http://biaozhun114.com/tv/ysp.php?id=1
+CCTV2,http://biaozhun114.com/tv/ysp.php?id=2
+CCTV3,http://biaozhun114.com/tv/ysp.php?id=3
+CCTV4,http://biaozhun114.com/tv/ysp.php?id=4
+CCTV5,http://biaozhun114.com/tv/ysp.php?id=5
+CCTV5+,http://biaozhun114.com/tv/ysp.php?id=6
+CCTV6,http://biaozhun114.com/tv/ysp.php?id=7
+CCTV6,http://biaozhun114.com/tv/ysp.php?id=8
+CCTV7,http://biaozhun114.com/tv/ysp.php?id=9
+CCTV8,http://biaozhun114.com/tv/ysp.php?id=10
+CCTV9,http://biaozhun114.com/tv/ysp.php?id=11
+CCTV10,http://biaozhun114.com/tv/ysp.php?id=12
+CCTV11,http://biaozhun114.com/tv/ysp.php?id=13
+CCTV12,http://biaozhun114.com/tv/ysp.php?id=14
+CCTV13,http://biaozhun114.com/tv/ysp.php?id=15
+CCTV14,http://biaozhun114.com/tv/ysp.php?id=16
+CCTV15,http://biaozhun114.com/tv/ysp.php?id=17
+CCTV16,http://biaozhun114.com/tv/ysp.php?id=18
+CCTV16,http://biaozhun114.com/tv/ysp.php?id=19
+CCTV17,http://biaozhun114.com/tv/ysp.php?id=20
+CCTV4K,http://biaozhun114.com/tv/ysp.php?id=21
+CCTV8K,http://biaozhun114.com/tv/ysp.php?id=22
 CCTV1,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
 CCTV2,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
 CCTV3,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576503.m3u8
@@ -233,6 +255,29 @@ CCTV14,http://61.141.202.118:9901/tsfile/live/0125_1.m3u8
 CCTV15,http://61.141.202.118:9901/tsfile/live/0015_1.m3u8
 
  ┣  地方卫视,#genre#
+北京卫视,http://biaozhun114.com/tv/ysp.php?id=43
+东方卫视,http://biaozhun114.com/tv/ysp.php?id=44
+天津卫视,http://biaozhun114.com/tv/ysp.php?id=45
+重庆卫视,http://biaozhun114.com/tv/ysp.php?id=46
+黑龙江卫视,http://biaozhun114.com/tv/ysp.php?id=47
+辽宁卫视,http://biaozhun114.com/tv/ysp.php?id=48
+河北卫视,http://biaozhun114.com/tv/ysp.php?id=49
+山东卫视,http://biaozhun114.com/tv/ysp.php?id=50
+安徽卫视,http://biaozhun114.com/tv/ysp.php?id=51
+河南卫视,http://biaozhun114.com/tv/ysp.php?id=52
+湖北卫视,http://biaozhun114.com/tv/ysp.php?id=53
+湖南卫视,http://biaozhun114.com/tv/ysp.php?id=54
+江西卫视,http://biaozhun114.com/tv/ysp.php?id=55
+江苏卫视,http://biaozhun114.com/tv/ysp.php?id=56
+浙江卫视,http://biaozhun114.com/tv/ysp.php?id=57
+东南卫视,http://biaozhun114.com/tv/ysp.php?id=58
+深圳卫视,http://biaozhun114.com/tv/ysp.php?id=60
+广西卫视,http://biaozhun114.com/tv/ysp.php?id=61
+贵州卫视,http://biaozhun114.com/tv/ysp.php?id=62
+四川卫视,http://biaozhun114.com/tv/ysp.php?id=63
+新疆卫视,http://biaozhun114.com/tv/ysp.php?id=64
+海南卫视,http://biaozhun114.com/tv/ysp.php?id=65
+兵团卫视,http://biaozhun114.com/tv/ysp.php?id=66
 北京卫视,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=43
 东方卫视,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=44
 天津卫视,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=45
@@ -527,6 +572,8 @@ CCTV15,http://61.141.202.118:9901/tsfile/live/0015_1.m3u8
 陕西卫视,http://58.220.219.14:9901/tsfile/live/0120_7.m3u8
 
  ┣  广东频道,#genre#
+广东卫视,http://biaozhun114.com/tv/ysp.php?id=59
+深圳卫视,http://biaozhun114.com/tv/ysp.php?id=60
 广东卫视,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=59
 深圳卫视,http://tvbox.mohuajz.eu.org/tv/ysp.php?id=60
 广东卫视,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
@@ -1126,5 +1173,5 @@ HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct
 
 🕘 更新时间,#genre#
 2024-04-30,https://tv.cdesign.io/blank.mp4
-12:10:05,https://tv.cdesign.io/blank.mp4
+18:08:56,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
