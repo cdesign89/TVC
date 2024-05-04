@@ -1192,5 +1192,5 @@ HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct
 
 🕘 更新时间,#genre#
 2024-05-04,https://tv.cdesign.io/blank.mp4
-12:10:26,https://tv.cdesign.io/blank.mp4
+18:07:34,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
