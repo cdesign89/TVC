@@ -613,13 +613,6 @@ TVB J1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-
 港台RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 
  ┣  台湾省　,#genre#
-东森购物一台,http://live.9528.eu.org/4gtv.php?channel=173
-东森购物二台,http://live.9528.eu.org/4gtv.php?channel=174
-fun探索娱乐台,http://live.9528.eu.org/4gtv.php?channel=274
-东森购物四台,http://live.9528.eu.org/4gtv.php?channel=286
-东森购物三台,http://live.9528.eu.org/4gtv.php?channel=287
-东森新闻台,http://live.9528.eu.org/4gtv.php?channel=292
-东森财经新闻台,http://live.9528.eu.org/4gtv.php?channel=293
 民视第一台,http://live.9528.eu.org/4gtv.php?channel=1
 民视台湾台,http://live.9528.eu.org/4gtv.php?channel=2
 民视,http://live.9528.eu.org/4gtv.php?channel=3
@@ -634,6 +627,8 @@ fun探索娱乐台,http://live.9528.eu.org/4gtv.php?channel=274
 中视经典台,http://live.9528.eu.org/4gtv.php?channel=124
 三立综合台,http://live.9528.eu.org/4gtv.php?channel=169
 八大精彩台,http://live.9528.eu.org/4gtv.php?channel=172
+东森购物一台,http://live.9528.eu.org/4gtv.php?channel=173
+东森购物二台,http://live.9528.eu.org/4gtv.php?channel=174
 TVBS,http://live.9528.eu.org/4gtv.php?channel=183
 TVBS欢乐台,http://live.9528.eu.org/4gtv.php?channel=184
 TVBS精采台,http://live.9528.eu.org/4gtv.php?channel=227
@@ -643,9 +638,88 @@ TVBS精采台,http://live.9528.eu.org/4gtv.php?channel=227
 民视台湾台,http://live.9528.eu.org/4gtv.php?channel=255
 民视新闻台,http://live.9528.eu.org/4gtv.php?channel=257
 中视新闻,http://live.9528.eu.org/4gtv.php?channel=258
+fun探索娱乐台,http://live.9528.eu.org/4gtv.php?channel=274
 TVBS综艺台,http://live.9528.eu.org/4gtv.php?channel=284
 TVBS台剧台,http://live.9528.eu.org/4gtv.php?channel=285
+东森购物四台,http://live.9528.eu.org/4gtv.php?channel=286
+东森购物三台,http://live.9528.eu.org/4gtv.php?channel=287
 TVBS新闻,http://live.9528.eu.org/4gtv.php?channel=291
+东森新闻台,http://live.9528.eu.org/4gtv.php?channel=292
+东森财经新闻台,http://live.9528.eu.org/4gtv.php?channel=293
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大戏剧台HD,http://61.221.215.25:8800/hls/39/index.m3u8
+八大综合台HD,http://61.221.215.25:8800/hls/56/index.m3u8
+八大第1台HD,http://61.221.215.25:8800/hls/55/index.m3u8
+三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+中视新闻,http://ytb.csscc.cc:2086/live.m3u8?c=2
+三立新闻,http://ytb.csscc.cc:2086/live.m3u8?c=3
+东森新闻,http://ytb.csscc.cc:2086/live.m3u8?c=6
+民视新闻,http://ytb.csscc.cc:2086/live.m3u8?c=8
+TVBS新闻,http://ytb.csscc.cc:2086/live.m3u8?c=11
+民视戏剧,http://ytb.csscc.cc:2086/live.m3u8?c=14
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+TVBS NEWS,http://william8073.eu.org:9000/live.m3u8?c=2
+中视新闻,http://william8073.eu.org:9000/live.m3u8?c=7
+东森财经新闻HD,http://william8073.eu.org:9000/live.m3u8?c=9
+台视新闻HD,http://william8073.eu.org:9000/live.m3u8?c=11
+民视新闻台HD,http://william8073.eu.org:9000/live.m3u8?c=12
+三立iNEWS,http://william8073.eu.org:9000/live.m3u8?c=15
+三立NEWS+,http://william8073.eu.org:9000/live.m3u8?c=22
+中视经典综艺,http://william8073.eu.org:9000/live.m3u8?c=28
+中视台湾志,http://william8073.eu.org:9000/live.m3u8?c=29
+中视大陆寻奇,http://william8073.eu.org:9000/live.m3u8?c=37
+LOVENATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+东森新闻,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+探索亚洲,http://888.iptv543.com/Smartv.php?id=discoverytwn_twn
+探索频道,http://888.iptv543.com/Smartv.php?id=ba86fcd935
+探索,http://888.iptv543.com/Smartv.php?id=discoverych_twn
+台视新闻,http://888.iptv543.com/Smartv.php?id=ttvnews_twn
+中视新闻,http://888.iptv543.com/Smartv.php?id=ca73a13c37
+三立综合台,http://888.iptv543.com/Smartv.php?id=sanlizhonghe
+三立戏剧,http://888.iptv543.com/Smartv.php?id=sanlixiju_twn
+三立台湾台,http://888.iptv543.com/Smartv.php?id=sanlitaiwan
+民视新闻台,http://888.iptv543.com/Smartv.php?id=ftvnew_taiwan
+民视台湾台,http://888.iptv543.com/Smartv.php?id=ftvtaiwan_twn
+民视第一台,http://888.iptv543.com/Smartv.php?id=lunghuajingdian_twn
+民视,http://888.iptv543.com/Smartv.php?id=ftvhd_taiwan
+东森新闻,http://888.iptv543.com/Smartv.php?id=ettvnews
+东森戏剧,http://888.iptv543.com/Smartv.php?id=ettvdrama
+东森电影台,http://888.iptv543.com/Smartv.php?id=ettvmovie
+东森综合台,http://888.iptv543.com/Smartv.php?id=ettvzhonghe
+东森洋片,http://888.iptv543.com/Smartv.php?id=ettvwestern
+东森超视,http://888.iptv543.com/Smartv.php?id=ettvsuper
+东森财经新闻,http://888.iptv543.com/Smartv.php?id=ettvcaijing_twn
+八大综合台,http://888.iptv543.com/Smartv.php?id=badazhonghe
+八大戏剧台,http://888.iptv543.com/Smartv.php?id=badadrama
+八大第1台,http://888.iptv543.com/Smartv.php?id=badafirst
+TVBS新闻台,http://888.iptv543.com/Smartv.php?id=tvbs_n
+TVBS欢乐台,http://888.iptv543.com/Smartv.php?id=tvbshuanle_twn
+TVBS,http://888.iptv543.com/Smartv.php?id=tvbs
+HBO家庭,http://888.iptv543.com/Smartv.php?id=fyi_twn
+HBOHD,http://888.iptv543.com/Smartv.php?id=hbohd_twn
+HBO,http://888.iptv543.com/Smartv.php?id=huanyutaiwan_twn
+HBO,http://888.iptv543.com/Smartv.php?id=hbosignature_twn
+HBO,http://888.iptv543.com/Smartv.php?id=hbohead_twn
+HBO,http://888.iptv543.com/Smartv.php?id=Hbo
 
 🇯🇵 小日子　,#genre#
 ABCテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
@@ -990,11 +1064,7 @@ DaNangTV2(5G专线),http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.
 HBTV(5G专线),http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 ANTV(5G专线),http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
-🌏 HBO  　,#genre#
-HBO,http://41.205.93.154/HBO/index.m3u8
-HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-
 🕘 更新时间,#genre#
 2024-05-21,https://tv.cdesign.io/blank.mp4
-18:08:27,https://tv.cdesign.io/blank.mp4
+19:22:29,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
