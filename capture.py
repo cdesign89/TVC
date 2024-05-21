@@ -32,14 +32,15 @@ def shift_array(arr): # 数组向左平移并减一行，得到频道组结束�
 def subtract_add(arr): # 数组内容加1，得到频道组第一个频道位置
     return [x + 1 for x in arr]
 
-def find_genre(arr,kw_gen): # 查找频道组索引位置
+def find_genre(arr,kw_gen,kw_gen2): # 查找频道组索引位置
     pattern_gen = '|'.join(kw_gen)
+    pattern_gen2 = '|'.join(kw_gen2)
     for idx, content in enumerate(arr):
-        if re.search(pattern_gen,content):
+        if re.search(pattern_gen,content) and re.search(pattern_gen2,content):
             return idx
         
-def find_channel(kw_gen,kw_ch,dekw_ch): #查找筛选频道,其中mode_w为写入模式设置，w为首写，a为追加
-    gi = find_genre(ogenre_content,kw_gen)
+def find_channel(kw_gen,kw_gen2,kw_ch,dekw_ch): #查找筛选频道
+    gi = find_genre(ogenre_content,kw_gen,kw_gen2)
     if gi is None:
         return
     else:
@@ -84,89 +85,88 @@ for line_num,line_content in ogenre:
 ogenre_end_line = shift_array(ogenre_start_line)
 ogenre_start_line = subtract_add(ogenre_start_line)
 
-# 组01：抓取高清组频道
-# name_gen = '🚀 高清专区'
+# 组00：示例组
+# name_gen = '展示频道组名'
 # name_ch = 'HD'
 # txt_ch = 'HD.txt'
 # cre_genre()
-# find_channel(['高码'], [','], ['👉','卡顿','选择','ipv6','ip-v6'])
+# find_channel(['高码'], [''], [','], ['👉','卡顿','选择','ipv6','ip-v6'])
 
-# 组02：抓取央视组频道
+# 组01：抓取央视组频道
 name_gen = '🇨🇳 央视爸爸'
 name_ch = 'CCTV'
 txt_ch = 'CCTV.txt'
 cre_genre()
+kw_gen2 = ''
 kw_ch = ['CCTV']
-dekw_ch = ['ipv6','ip-v6']
-find_channel(['独家'], kw_ch, dekw_ch)
-find_channel(['电信'], kw_ch, dekw_ch)
-# find_channel(['高码'], kw_ch, dekw_ch)
-# find_channel(['央视'], kw_ch, dekw_ch)
+dekw_ch = ['ipv6', 'ip-v6']
+find_channel(['独家'], kw_gen2, kw_ch, dekw_ch)
+find_channel(['电信'], kw_gen2, kw_ch, dekw_ch)
 
-# 组03：抓取卫视组频道，并排除广东相关
+# 组02：抓取卫视组频道，并排除广东相关
 name_gen = ' ┣  地方卫视'
 name_ch = 'WS'
 txt_ch = 'WS.txt'
 cre_genre()
+kw_gen2 = ''
 kw_ch = ['卫视']
-dekw_ch = ['广东','大湾区','ipv6','ip-v6']
-find_channel(['卫视'], kw_ch, dekw_ch)
-find_channel(['独家'], kw_ch, dekw_ch)
-find_channel(['电信'], kw_ch, dekw_ch)
-# find_channel(['高码'], kw_ch, dekw_ch)
+dekw_ch = ['广东', '大湾区', 'ipv6', 'ip-v6']
+find_channel(['卫视'], kw_gen2, kw_ch, dekw_ch)
+find_channel(['独家'], kw_gen2, kw_ch, dekw_ch)
+find_channel(['电信'], kw_gen2, kw_ch, dekw_ch)
 
-# 组04：抓取卫视、广东组中广东相关频道
+# 组03：抓取卫视、广东组中广东相关频道
 name_gen = ' ┣  广东频道'
 name_ch = 'GD'
 txt_ch = 'GD.txt'
 cre_genre()
-kw_ch = ['广东','大湾区','佛山','广州','深圳']
-dekw_ch = ['ipv6','ip-v6']
-find_channel(['卫视'], kw_ch, dekw_ch)
-find_channel(['独家'], kw_ch, dekw_ch)
-find_channel(['电信'], kw_ch, dekw_ch)
-find_channel(['广东'], kw_ch, dekw_ch)
-find_channel(['地方'], kw_ch, dekw_ch)
-# find_channel(['高码'], kw_ch, dekw_ch)
+kw_gen2 = ''
+kw_ch = ['广东', '大湾区', '佛山', '广州', '深圳']
+dekw_ch = ['ipv6', 'ip-v6']
+find_channel(['卫视'], kw_gen2, kw_ch, dekw_ch)
+find_channel(['独家'], kw_gen2, kw_ch, dekw_ch)
+find_channel(['电信'], kw_gen2, kw_ch, dekw_ch)
+find_channel(['广东'], kw_gen2, kw_ch, dekw_ch)
+find_channel(['地方'], kw_gen2, kw_ch, dekw_ch)
 
-# 组05：抓取香港、澳门组频道
+# 组04：抓取香港、澳门组频道
 name_gen = ' ┣  港澳地区'
 name_ch = 'GA'
 txt_ch = 'GA.txt'
 cre_genre()
-find_channel(['香港'], ['TVB','RTHK','VIU','HOY','线','香港','凤凰','J1','J2','明珠','港台'], ['IPV6','ip-v6','魔法'])
-find_channel(['澳门'], ['澳门','澳亚','澳视'], ['IPV6','ip-v6','魔法'])
+kw_gen2 = ''
+find_channel(['香港'], kw_gen2, ['TVB','RTHK','VIU','HOY','线','香港','凤凰','J1','J2','明珠','港台'], ['IPV6','ip-v6','魔法'])
+find_channel(['澳门'], kw_gen2, ['澳门','澳亚','澳视'], ['IPV6','ip-v6','魔法'])
 
-# 组06：抓取台湾组频道，优先个别频道（如东森等）
+# 组05：抓取台湾组频道
 name_gen = ' ┣  台湾省　'
 name_ch = 'TW'
 txt_ch = 'TW.txt'
 cre_genre()
-find_channel(['台湾','湾'], ['东森','lovenature','探索'], ['IPV6','ip-v6','魔法','美洲'])
-find_channel(['台湾','湾'], ['八大','中视','三立','台视','TVBS','民视'], ['IPV6','ip-v6','魔法'])
+kw_gen = ['台湾','湾湾']
+kw_ch = ['东森','lovenature','探索','八大','中视','三立','台视','TVBS','民视','HBO']
+dekw_ch = ['ipv6','ip-v6','魔法','美洲']
+find_channel(kw_gen, ['路1'], kw_ch, dekw_ch)
+find_channel(kw_gen, ['路2'], kw_ch, dekw_ch)
+find_channel(kw_gen, ['路3'], kw_ch, dekw_ch)
 
-# 组07：抓取日本组频道
+# 组06：抓取日本组频道
 name_gen = '🇯🇵 小日子　'
 name_ch = 'JP'
 txt_ch = 'JP.txt'
 cre_genre()
-find_channel(['小日','日本'], [','], ['IPV6','ip-v6','魔法','👉','卡顿','选择'])
+kw_gen2 = ''
+kw_ch = ',' #全抓
+find_channel(['小日','日本'], kw_gen2, kw_ch, ['IPV6','ip-v6','魔法','👉','卡顿','选择'])
 
-# 组08：抓取韩国组频道
+# 组07：抓取韩国组频道
 name_gen = '🇰🇷 大棒子　'
 name_ch = 'KR'
 txt_ch = 'KR.txt'
 cre_genre()
-find_channel(['韩国','泡菜'], [','], ['IPV6','ip-v6','魔法','👉','卡顿','选择'])
-
-# 组09：抓取国际、HBO组中HBO频道
-name_gen = '🌏 HBO  　'
-name_ch = 'INT'
-txt_ch = 'INT.txt'
-cre_genre()
-find_channel(['台湾','湾'], ['HBO'], ['IPV6','ip-v6','魔法'])
-find_channel(['国际'], ['HBO'], ['IPV6','ip-v6','魔法'])
-find_channel(['HBO'], ['HBO'], ['IPV6','ip-v6','魔法'])
+kw_gen2 = ''
+kw_ch = ',' #全抓
+find_channel(['韩国','泡菜'], kw_gen2, kw_ch, ['IPV6','ip-v6','魔法','👉','卡顿','选择'])
 
 # 读取要合并的文件
 file_contents = []
