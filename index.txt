@@ -543,43 +543,71 @@ CCTV16 4K,http://dms.yryyj.site:8188/udp/239.76.246.230:1234
 大湾区卫视,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=nfws&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
 广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
 广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.168:5146
-广东体育,http://223.109.210.41/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
-广东卫视超清,http://ddns.cyruslee.top:8888/udp/239.77.0.166:5146
-广东珠江高清,http://ddns.cyruslee.top:8888/udp/239.77.0.1:5146
-广东珠江超清,http://ddns.cyruslee.top:8888/udp/239.77.0.114:5146
-广东新闻高清,http://ddns.cyruslee.top:8888/udp/239.77.0.173:5146
-广东民生高清,http://ddns.cyruslee.top:8888/udp/239.77.0.225:5146
-大湾区卫视高清,http://ddns.cyruslee.top:8888/udp/239.77.0.215:5146
-广东影视高清,http://ddns.cyruslee.top:8888/udp/239.77.0.217:5146
-广东少儿高清,http://ddns.cyruslee.top:8888/udp/239.77.0.250:5146
-广州综合高清,http://ddns.cyruslee.top:8888/udp/239.253.43.71:5146
-广州新闻高清,http://ddns.cyruslee.top:8888/udp/239.253.43.72:5146
-广州影视高清,http://ddns.cyruslee.top:8888/udp/239.253.43.73:5146
-广州法治高清,http://ddns.cyruslee.top:8888/udp/239.253.43.74:5146
-广州竞赛高清,http://ddns.cyruslee.top:8888/udp/239.253.43.75:5146
-深圳卫视超清,http://ddns.cyruslee.top:8888/udp/239.77.0.130:5146
-深圳都市高清,http://ddns.cyruslee.top:8888/udp/239.77.1.176:5146
-深圳都市高清,http://ddns.cyruslee.top:8888/udp/239.77.1.124:5146
-深圳电视剧高清,http://ddns.cyruslee.top:8888/udp/239.77.1.177:5146
-深圳电视剧高清,http://ddns.cyruslee.top:8888/udp/239.77.1.125:5146
-深圳财经高清,http://ddns.cyruslee.top:8888/udp/239.77.1.242:5146
-深圳娱乐高清,http://ddns.cyruslee.top:8888/udp/239.77.1.243:5146
-深圳体育高清,http://ddns.cyruslee.top:8888/udp/239.77.1.128:5146
-深圳体育高清,http://ddns.cyruslee.top:8888/udp/239.77.1.140:5146
-深圳少儿高清,http://ddns.cyruslee.top:8888/udp/239.77.1.244:5146
-深圳公共高清,http://ddns.cyruslee.top:8888/udp/239.77.1.178:5146
-深圳公共高清,http://ddns.cyruslee.top:8888/udp/239.77.1.126:5146
-深圳宝安高清,http://ddns.cyruslee.top:8888/udp/239.77.1.67:5146
+广东珠江,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.1:5146
+广东珠江,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.114:5146
+广东新闻,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.173:5146
+广东公共,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.225:5146
+广东体育,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.112:5146
+广东体育,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.168:5146
+广东影视,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.217:5146
+广东少儿,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.250:5146
+广东综艺,http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.236:5146
+广东综艺,http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.237:5146
+广东综艺,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.244:5146
+广东综艺,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.246:5146
+广东综艺,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.245:5146
+广东综艺,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.252:5146
+广州综合,http://cysan.gzcy020.com.cn:50000/rtp/239.253.43.71:5146
+广州新闻,http://cysan.gzcy020.com.cn:50000/rtp/239.253.43.72:5146
+广州影视,http://cysan.gzcy020.com.cn:50000/rtp/239.253.43.73:5146
+广州法治,http://cysan.gzcy020.com.cn:50000/rtp/239.253.43.74:5146
+广州竞赛,http://cysan.gzcy020.com.cn:50000/rtp/239.253.43.75:5146
+广东珠江,http://113.98.122.166:9901/tsfile/live/1054_1.m3u8
+广东新闻,http://113.98.122.166:9901/tsfile/live/1055_1.m3u8
+广东民生,http://113.98.122.166:9901/tsfile/live/1056_1.m3u8
+广东体育,http://113.98.122.166:9901/tsfile/live/1057_1.m3u8
+广东影视,http://113.98.122.166:9901/tsfile/live/1059_1.m3u8
+广东少儿,http://113.98.122.166:9901/tsfile/live/1060_1.m3u8
+广州综合,http://113.98.122.166:9901/tsfile/live/1061_1.m3u8
+广州新闻,http://113.98.122.166:9901/tsfile/live/1062_1.m3u8
+广州影视,http://113.98.122.166:9901/tsfile/live/1063_1.m3u8
+广州法治,http://113.98.122.166:9901/tsfile/live/1064_1.m3u8
+广东卫视,http://ddns.cyruslee.top:8888/udp/239.77.0.166:5146
+广东珠江,http://ddns.cyruslee.top:8888/udp/239.77.0.1:5146
+广东珠江,http://ddns.cyruslee.top:8888/udp/239.77.0.114:5146
+广东新闻,http://ddns.cyruslee.top:8888/udp/239.77.0.173:5146
+广东民生,http://ddns.cyruslee.top:8888/udp/239.77.0.225:5146
+大湾区卫视,http://ddns.cyruslee.top:8888/udp/239.77.0.215:5146
+广东影视,http://ddns.cyruslee.top:8888/udp/239.77.0.217:5146
+广东少儿,http://ddns.cyruslee.top:8888/udp/239.77.0.250:5146
+广州综合,http://ddns.cyruslee.top:8888/udp/239.253.43.71:5146
+广州新闻,http://ddns.cyruslee.top:8888/udp/239.253.43.72:5146
+广州影视,http://ddns.cyruslee.top:8888/udp/239.253.43.73:5146
+广州法治,http://ddns.cyruslee.top:8888/udp/239.253.43.74:5146
+广州竞赛,http://ddns.cyruslee.top:8888/udp/239.253.43.75:5146
+深圳卫视,http://ddns.cyruslee.top:8888/udp/239.77.0.130:5146
+深圳都市,http://ddns.cyruslee.top:8888/udp/239.77.1.176:5146
+深圳都市,http://ddns.cyruslee.top:8888/udp/239.77.1.124:5146
+深圳电视剧,http://ddns.cyruslee.top:8888/udp/239.77.1.177:5146
+深圳电视剧,http://ddns.cyruslee.top:8888/udp/239.77.1.125:5146
+深圳财经,http://ddns.cyruslee.top:8888/udp/239.77.1.242:5146
+深圳娱乐,http://ddns.cyruslee.top:8888/udp/239.77.1.243:5146
+深圳体育,http://ddns.cyruslee.top:8888/udp/239.77.1.128:5146
+深圳体育,http://ddns.cyruslee.top:8888/udp/239.77.1.140:5146
+深圳少儿,http://ddns.cyruslee.top:8888/udp/239.77.1.244:5146
+深圳公共,http://ddns.cyruslee.top:8888/udp/239.77.1.178:5146
+深圳公共,http://ddns.cyruslee.top:8888/udp/239.77.1.126:5146
+深圳宝安,http://ddns.cyruslee.top:8888/udp/239.77.1.67:5146
 深圳宝安第一课,http://ddns.cyruslee.top:8888/udp/239.77.1.225:5146
-深圳龙岗高清,http://ddns.cyruslee.top:8888/udp/239.77.1.223:5146
-深圳东部高清,http://ddns.cyruslee.top:8888/udp/239.77.1.224:5146
-深圳众创高清,http://ddns.cyruslee.top:8888/udp/239.77.1.247:5146
+深圳龙岗,http://ddns.cyruslee.top:8888/udp/239.77.1.223:5146
+深圳东部,http://ddns.cyruslee.top:8888/udp/239.77.1.224:5146
+深圳众创,http://ddns.cyruslee.top:8888/udp/239.77.1.247:5146
 深圳移动电视,http://ddns.cyruslee.top:8888/udp/239.77.1.175:5146
-佛山南海高清,http://ddns.cyruslee.top:8888/udp/239.253.43.50:5146
-佛山顺德高清,http://ddns.cyruslee.top:8888/udp/239.253.43.55:5146
-佛山影视高清,http://ddns.cyruslee.top:8888/udp/239.253.43.56:5146
-佛山综合高清,http://ddns.cyruslee.top:8888/udp/239.253.43.57:5146
+佛山南海,http://ddns.cyruslee.top:8888/udp/239.253.43.50:5146
+佛山顺德,http://ddns.cyruslee.top:8888/udp/239.253.43.55:5146
+佛山影视,http://ddns.cyruslee.top:8888/udp/239.253.43.56:5146
+佛山综合,http://ddns.cyruslee.top:8888/udp/239.253.43.57:5146
 大湾区卫视,http://glive.grtn.cn/live/lizhi.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
@@ -1128,5 +1156,5 @@ ANTV(5G专线),http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
 🕘 更新时间,#genre#
 2024-05-23,https://tv.cdesign.io/blank.mp4
-12:09:34,https://tv.cdesign.io/blank.mp4
+18:09:34,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
