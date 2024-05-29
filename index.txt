@@ -1264,6 +1264,6 @@ HBTV(5G专线),http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u
 ANTV(5G专线),http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
 🕘 更新时间,#genre#
-2024-05-29,https://tv.cdesign.io/blank.mp4
-18:08:57,https://tv.cdesign.io/blank.mp4
+2024-05-30,https://tv.cdesign.io/blank.mp4
+06:07:40,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
