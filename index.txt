@@ -1,4 +1,25 @@
 🇨🇳 央视爸爸,#genre#
+CCTV1,http://haycker.eu.org:19527/play/1
+CCTV2,http://haycker.eu.org:19527/play/2
+CCTV3,http://haycker.eu.org:19527/play/3
+CCTV4,http://haycker.eu.org:19527/play/4
+CCTV5,http://haycker.eu.org:19527/play/6
+CCTV5+,http://haycker.eu.org:19527/play/7
+CCTV6,http://haycker.eu.org:19527/play/8
+CCTV7,http://haycker.eu.org:19527/play/9
+CCTV8,http://haycker.eu.org:19527/play/10
+CCTV9,http://haycker.eu.org:19527/play/12
+CCTV10,http://haycker.eu.org:19527/play/13
+CCTV11,http://haycker.eu.org:19527/play/14
+CCTV12,http://haycker.eu.org:19527/play/15
+CCTV13,http://haycker.eu.org:19527/play/16
+CCTV14,http://haycker.eu.org:19527/play/17
+CCTV15,http://haycker.eu.org:19527/play/18
+CCTV16,http://haycker.eu.org:19527/play/19
+CCTV17,http://haycker.eu.org:19527/play/21
+CCTV5,http://haycker.eu.org:19527/play/6
+CCTV5+,http://haycker.eu.org:19527/play/7
+CCTV16,http://haycker.eu.org:19527/play/19
 CCTV1,http://cdn.jdshipin.com:8880/ysp.php?id=cctv1
 CCTV2,http://cdn.jdshipin.com:8880/ysp.php?id=cctv2
 CCTV3,http://cdn.jdshipin.com:8880/ysp.php?id=cctv3
@@ -282,6 +303,33 @@ CCTV16 4K,http://dms.yryyj.site:8188/udp/239.76.254.200:9000
 CCTV16 4K,http://dms.yryyj.site:8188/udp/239.76.246.230:1234
 
  ┣  地方卫视,#genre#
+湖南卫视,http://haycker.eu.org:19527/play/37
+北京卫视,http://haycker.eu.org:19527/play/45
+浙江卫视,http://haycker.eu.org:19527/play/38
+江苏卫视,http://haycker.eu.org:19527/play/39
+深圳卫视,http://haycker.eu.org:19527/play/40
+湖北卫视,http://haycker.eu.org:19527/play/41
+广西卫视,http://haycker.eu.org:19527/play/42
+东南卫视,http://haycker.eu.org:19527/play/43
+江西卫视,http://haycker.eu.org:19527/play/44
+东方卫视,http://haycker.eu.org:19527/play/46
+辽宁卫视,http://haycker.eu.org:19527/play/47
+重庆卫视,http://haycker.eu.org:19527/play/48
+天津卫视,http://haycker.eu.org:19527/play/49
+安徽卫视,http://haycker.eu.org:19527/play/50
+贵州卫视,http://haycker.eu.org:19527/play/51
+四川卫视,http://haycker.eu.org:19527/play/52
+山东卫视,http://haycker.eu.org:19527/play/53
+吉林卫视,http://haycker.eu.org:19527/play/54
+黑龙江卫视,http://haycker.eu.org:19527/play/55
+河北卫视,http://haycker.eu.org:19527/play/56
+河南卫视,http://haycker.eu.org:19527/play/57
+内蒙古卫视,http://haycker.eu.org:19527/play/58
+宁夏卫视,http://haycker.eu.org:19527/play/59
+甘肃卫视,http://haycker.eu.org:19527/play/60
+海南卫视,http://haycker.eu.org:19527/play/61
+新疆卫视,http://haycker.eu.org:19527/play/62
+西藏卫视,http://haycker.eu.org:19527/play/63
 北京卫视,http://cdn.jdshipin.com:8880/ysp.php?id=bjws
 湖南卫视,http://cdn.jdshipin.com:8880/ysp.php?id=fnws
 东方卫视,http://cdn.jdshipin.com:8880/ysp.php?id=dfws
@@ -650,6 +698,9 @@ CCTV16 4K,http://dms.yryyj.site:8188/udp/239.76.246.230:1234
 湖南卫视,http://dms.yryyj.site:8188/udp/239.76.246.101:1234
 
  ┣  广东频道,#genre#
+深圳卫视,http://haycker.eu.org:19527/play/40
+广东卫视,http://haycker.eu.org:19527/play/64
+大湾区卫视,http://haycker.eu.org:19527/play/65
 广东卫视,http://cdn.jdshipin.com:8880/ysp.php?id=gdws
 深圳卫视,http://cdn.jdshipin.com:8880/ysp.php?id=szws
 广东卫视,http://ygbh.live/migu.php?id=gdws
@@ -1412,5 +1463,5 @@ ANTV(5G专线),http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
 🕘 更新时间,#genre#
 2024-06-01,https://tv.cdesign.io/blank.mp4
-12:09:41,https://tv.cdesign.io/blank.mp4
+18:08:13,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
