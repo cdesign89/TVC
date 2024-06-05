@@ -1079,6 +1079,19 @@ TVBS精采台,http://220.134.74.149:6868/udp/230.1.2.35:11111
 民视第一台,http://220.134.74.149:6868/udp/224.1.4.77:11111
 民视新闻台,http://220.134.74.149:6868/udp/224.1.4.97:11111
 民视新闻台,http://220.134.74.149:6868/udp/230.1.2.155:11111
+台视新闻,http://extraott.com:80/live/7921751389/6097373662/5501.m3u8
+民视新闻,http://extraott.com:80/live/7921751389/6097373662/5529.m3u8
+东森MOMO,http://extraott.com:80/live/7921751389/6097373662/5510.m3u8
+民视高清台,http://extraott.com:80/live/7921751389/6097373662/5530.m3u8
+民视台湾台,http://extraott.com:80/live/7921751389/6097373662/5528.m3u8
+三立都会,http://extraott.com:80/live/7921751389/6097373662/5506.m3u8
+三立台湾,http://extraott.com:80/live/7921751389/6097373662/5505.m3u8
+三立戏剧,http://extraott.com:80/live/7921751389/6097373662/5504.m3u8
+三立综合,http://extraott.com:80/live/7921751389/6097373662/5503.m3u8
+台视台湾台,http://extraott.com:80/live/7921751389/6097373662/5502.m3u8
+台视综合台,http://extraott.com:80/live/7921751389/6097373662/5500.m3u8
+TVBS N,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
+TVBS,http://extraott.com:80/live/7921751389/6097373662/5496.m3u8
 
 🇯🇵 小日子　,#genre#
 「日本」NEWS 24H,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -1536,5 +1549,5 @@ ANTV(5G专线),http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
 🕘 更新时间,#genre#
 2024-06-05,https://tv.cdesign.io/blank.mp4
-18:08:24,https://tv.cdesign.io/blank.mp4
+19:15:11,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
