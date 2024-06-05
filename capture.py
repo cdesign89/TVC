@@ -101,7 +101,7 @@ kw_gen2 = ''
 kw_ch = ['CCTV']
 dekw_ch = ['ipv6', 'ip-v6']
 find_channel(['独家'], kw_gen2, kw_ch, dekw_ch)
-find_channel(['电信'], kw_gen2, kw_ch, dekw_ch)
+find_channel(['电信'], ['专线'], kw_ch, dekw_ch)
 
 # 组02：抓取卫视组频道，并排除广东相关
 name_gen = ' ┣  地方卫视'
@@ -113,7 +113,7 @@ kw_ch = ['卫视']
 dekw_ch = ['广东', '大湾区', 'ipv6', 'ip-v6']
 find_channel(['卫视'], kw_gen2, kw_ch, dekw_ch)
 find_channel(['独家'], kw_gen2, kw_ch, dekw_ch)
-find_channel(['电信'], kw_gen2, kw_ch, dekw_ch)
+find_channel(['电信'], ['专线'], kw_ch, dekw_ch)
 
 # 组03：抓取卫视、广东组中广东相关频道
 name_gen = ' ┣  广东频道'
@@ -125,7 +125,7 @@ kw_ch = ['广东', '大湾区', '佛山', '广州', '深圳']
 dekw_ch = ['ipv6', 'ip-v6']
 find_channel(['卫视'], kw_gen2, kw_ch, dekw_ch)
 find_channel(['独家'], kw_gen2, kw_ch, dekw_ch)
-find_channel(['电信'], kw_gen2, kw_ch, dekw_ch)
+find_channel(['电信'], ['专线'], kw_ch, dekw_ch)
 find_channel(['广东'], kw_gen2, kw_ch, dekw_ch)
 find_channel(['地方'], kw_gen2, kw_ch, dekw_ch)
 
@@ -149,6 +149,7 @@ dekw_ch = ['ipv6','ip-v6','魔法','美洲']
 find_channel(kw_gen, ['路1'], kw_ch, dekw_ch)
 find_channel(kw_gen, ['路2'], kw_ch, dekw_ch)
 find_channel(kw_gen, ['路3'], kw_ch, dekw_ch)
+find_channel(kw_gen, ['路4'], kw_ch, dekw_ch)
 
 # 组06：抓取日本组频道
 name_gen = '🇯🇵 小日子　'
