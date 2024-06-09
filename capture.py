@@ -135,7 +135,8 @@ name_ch = 'GA'
 txt_ch = 'GA.txt'
 cre_genre()
 kw_gen2 = ''
-find_channel(['香港'], kw_gen2, ['TVB','RTHK','VIU','HOY','线','香港','凤凰','J1','J2','明珠','港台'], ['IPV6','ip-v6','魔法'])
+find_channel(['香港'], ['路1'], ['TVB','RTHK','VIU','HOY','线','香港','凤凰','J1','J2','明珠','港台'], ['IPV6','ip-v6','魔法'])
+find_channel(['香港'], ['路2'], ['TVB','RTHK','VIU','HOY','线','香港','凤凰','J1','J2','明珠','港台'], ['IPV6','ip-v6','魔法'])
 find_channel(['澳门'], kw_gen2, ['澳门','澳亚','澳视'], ['IPV6','ip-v6','魔法'])
 
 # 组05：抓取台湾组频道
