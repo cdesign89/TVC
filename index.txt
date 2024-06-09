@@ -1429,5 +1429,5 @@ ANTV(5G专线),http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
 🕘 更新时间,#genre#
 2024-06-09,https://tv.cdesign.io/blank.mp4
-06:06:59,https://tv.cdesign.io/blank.mp4
+12:09:43,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
