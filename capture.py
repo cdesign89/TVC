@@ -62,7 +62,7 @@ def cre_genre():
 
 # 获取远程直播源文件
 # url = "https://raw.githubusercontent.com/Fairy8o/IPTV/main/DIYP-v4.txt"
-url = "https://github.com/Fairy8o/IPTV/blob/main/PDX-V4.txt"
+url = "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt"
 r = requests.get(url)
 # open('DIYP-v4.txt','wb').write(r.content)
 open('PDX-V4.txt','wb').write(r.content)
