@@ -179,7 +179,15 @@ for file_path in file_paths:
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
         file_contents.append(content)
-# 生成合并的文件
+
+# 备份原文件并生成合并的文件
+timestamp = datetime.datetime.now().strftime('%Y%m%d%H%M')
+backup_file = f'index_{timestamp}.txt'
+# 构建完整的备份文件路径
+backup_file_path = os.path.join('backup', backup_file)
+# 重命名原始文件为备份文件并移动到子目录
+os.rename('index.txt', backup_file_path)
+#写入合并文件
 with open('index.txt', 'w', encoding='utf-8') as output:
     output.write('\n'.join(file_contents))
 
