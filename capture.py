@@ -61,12 +61,15 @@ def cre_genre():
     del_files.append(txt_ch)
 
 # 获取远程直播源文件
-url = "https://raw.githubusercontent.com/Fairy8o/IPTV/main/DIYP-v4.txt"
+# url = "https://raw.githubusercontent.com/Fairy8o/IPTV/main/DIYP-v4.txt"
+url = "https://github.com/Fairy8o/IPTV/blob/main/PDX-V4.txt"
 r = requests.get(url)
-open('DIYP-v4.txt','wb').write(r.content)
+# open('DIYP-v4.txt','wb').write(r.content)
+open('PDX-V4.txt','wb').write(r.content)
 
 # 直播源文件繁转简
-file_T = 'DIYP-v4.txt'
+# file_T = 'DIYP-v4.txt'
+file_T = 'PDX-V4.txt'
 file_S = 'TV.txt'
 convert_s2t(file_T,file_S)
 
@@ -150,7 +153,7 @@ dekw_ch = ['ipv6','ip-v6','魔法','美洲']
 find_channel(kw_gen, ['路1'], kw_ch, dekw_ch)
 find_channel(kw_gen, ['路2'], kw_ch, dekw_ch)
 find_channel(kw_gen, ['路3'], kw_ch, dekw_ch)
-find_channel(kw_gen, ['路4'], kw_ch, dekw_ch)
+# find_channel(kw_gen, ['路4'], kw_ch, dekw_ch)
 
 # 组06：抓取日本组频道
 name_gen = '🇯🇵 小日子　'
