@@ -3,7 +3,7 @@ name: Update
 on:
   schedule:
     #- cron: '0 4,10,22 * * *'  # 每天的 GMT+8 时区的 6、12、18点的第0分钟执行
-    - cron: '0 10 * * *'  # 每天的 GMT+8 时区的 12点 第0分钟 执行
+    - cron: '0 10 * * *'  # 每天的 GMT+8 时区的 12点第0分钟 执行
   push:
     branches:
       - main
