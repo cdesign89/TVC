@@ -1177,6 +1177,6 @@ DUBAI ONE,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/c
 CJB(5G专线),http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 
 🕘 更新时间,#genre#
-2024-09-16,https://tv.cdesign.io/blank.mp4
-18:10:20,https://tv.cdesign.io/blank.mp4
+2024-09-17,https://tv.cdesign.io/blank.mp4
+18:09:27,https://tv.cdesign.io/blank.mp4
 CDESIGN.io,https://tv.cdesign.io/blank.mp4
